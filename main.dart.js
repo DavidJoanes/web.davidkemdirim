@@ -41587,21 +41587,20 @@ n(){this.W(new A.agr())
 this.av()},
 G(a){var s=null,r=t.p
 return A.A0(s,A.kZ(!0,A.LJ(A.aa(A.a([A.dh(B.X,A.a([new A.jJ(this.jo(a),this.jM(a),this.jC(a),s),new A.kD(B.z,s)],r),B.a2)],r),B.j,B.i,B.f)),B.Z,!0),new A.kQ(s))},
-jo(b0){var s,r,q,p,o,n,m,l,k,j,i,h,g=this,f=null,e="Poppins",d="assets/images/david2.jpg",c=b0.J(t.w).f.a,b=$.vr(),a=c.a,a0=c.b,a1=a*0.1,a2=a*0.01,a3=a*0.02,a4=a0*0.02,a5=a*0.04,a6=a*0.015,a7=t.p,a8=a0*0.08,a9=a*0.15
-b=A.aO(f,A.dh(B.X,A.a([A.aO(f,f,B.n,f,f,new A.bB(f,A.dj(B.au,new A.ch("assets/images/home2.jpg",f,f),f),f,f,f,f,B.F),f,f,f,f,f,f,a),A.el(f,A.j(new A.lJ(a2/a0*0.05,A.aa(A.a([A.C("THIS IS ME",f,f,f,A.T(f,f,B.e,f,f,f,f,f,e,f,f,a3,f,f,B.dm,f,f,!0,f,f,f,f,f,f,f,f),f,f),A.j(f,a4,f),A.C("DAVID KEMDIRIM",f,f,f,A.T(f,f,B.e,f,f,f,f,f,e,f,f,a5,f,f,B.O,f,f,!0,f,f,f,f,f,f,f,f),f,f),A.C("Software Developer",f,f,f,A.T(f,f,B.e,f,f,f,f,f,e,f,f,a6,f,f,B.B,f,f,!0,f,f,f,f,f,f,f,f),f,f),A.j(f,a4,f),A.zO(f,f,B.ad,f,f,!0,f,A.cx(A.a([A.cx(f,A.T(f,f,B.e,f,f,f,f,f,e,f,f,a6,f,f,B.B,f,f,!0,f,f,f,f,f,f,f,f),u.H),A.cx(f,A.T(f,f,B.e,f,f,f,f,f,e,f,f,a6,f,f,B.r,f,f,!0,f,f,f,f,f,f,f,f),"REAL "),A.cx(f,A.T(f,f,B.e,f,f,f,f,f,e,f,f,a6,f,f,B.B,f,f,!0,f,f,f,f,f,f,f,f),"me.. lol")],t.Ne),f,f),B.aQ,f,f,1,B.W)],a7),B.E,B.an,B.f),f),a0*0.43,a*0.4),f,f,a1,f,a0*0.22,f),A.el(f,A.ox(B.A,a1,B.A,a3,!0,a8,a3,new A.agn(g),"Discover Now",a*0.2),f,f,a1,f,a0*0.65,f),A.el(f,A.anK($.vr(),new A.ch(d,f,f),a9),f,f,a*0.6,f,a0*0.18,f)],a7),B.a2),B.n,b,f,f,f,f,f,f,f,f,f)
-s=a*0.05
-r=a0*0.1
-q=A.j(f,r,f)
+jo(a9){var s,r,q,p,o,n,m,l,k,j,i,h=this,g=null,f="Poppins",e="assets/images/david2.jpg",d=a9.J(t.w).f.a,c=$.vr(),b=d.a,a=d.b,a0=b*0.1,a1=b*0.01,a2=b*0.02,a3=a*0.02,a4=b*0.04,a5=b*0.015,a6=t.p,a7=a*0.08,a8=b*0.15
+c=A.aO(g,A.dh(B.X,A.a([A.aO(g,g,B.n,g,g,new A.bB(g,A.dj(B.au,new A.ch("assets/images/home2.jpg",g,g),g),g,g,g,g,B.F),g,g,g,g,g,g,b),A.el(g,A.j(new A.lJ(a1/a*0.05,A.aa(A.a([A.C("THIS IS ME",g,g,g,A.T(g,g,B.e,g,g,g,g,g,f,g,g,a2,g,g,B.dm,g,g,!0,g,g,g,g,g,g,g,g),g,g),A.j(g,a3,g),A.C("DAVID KEMDIRIM",g,g,g,A.T(g,g,B.e,g,g,g,g,g,f,g,g,a4,g,g,B.O,g,g,!0,g,g,g,g,g,g,g,g),g,g),A.C("Software Developer",g,g,g,A.T(g,g,B.e,g,g,g,g,g,f,g,g,a5,g,g,B.B,g,g,!0,g,g,g,g,g,g,g,g),g,g),A.j(g,a3,g),A.zO(g,g,B.ad,g,g,!0,g,A.cx(A.a([A.cx(g,A.T(g,g,B.e,g,g,g,g,g,f,g,g,a5,g,g,B.B,g,g,!0,g,g,g,g,g,g,g,g),u.H),A.cx(g,A.T(g,g,B.e,g,g,g,g,g,f,g,g,a5,g,g,B.r,g,g,!0,g,g,g,g,g,g,g,g),"REAL "),A.cx(g,A.T(g,g,B.e,g,g,g,g,g,f,g,g,a5,g,g,B.B,g,g,!0,g,g,g,g,g,g,g,g),"me.. lol")],t.Ne),g,g),B.aQ,g,g,1,B.W)],a6),B.E,B.an,B.f),g),a*0.43,b*0.4),g,g,a0,g,a*0.22,g),A.el(g,A.ox(B.A,a0,B.A,a2,!0,a7,a2,new A.agn(h),"Discover Now",b*0.2),g,g,a0,g,a*0.65,g),A.el(g,A.anK($.vr(),new A.ch(e,g,g),a8),g,g,b*0.6,g,a*0.18,g)],a6),B.a2),B.n,c,g,g,g,g,g,g,g,g,g)
+s=b*0.05
+r=a*0.1
+q=A.j(g,r,g)
 p=A.lO(B.k,1)
-o=a*0.03
-n=a0*0.01
-m=a0*0.04
-l=a0*0.52
-k=a*0.5
-j=a*0.17
-i=a0*0.06
-h=a*0.017
-return A.fM(A.aa(A.a([b,new A.aw(new A.a1(s,0,s,0),A.aa(A.a([q,A.j(new A.aw(new A.a1(a1,0,a1,0),A.aa(A.a([new A.aw(new A.a1(a8,a8,a8,a8),A.aO(f,f,B.n,f,f,new A.bB(f,A.dj(B.au,new A.ch(d,f,f),f),p,f,f,f,B.F),f,a0*0.6,f,f,f,f,a*0.35),f),A.aa(A.a([A.C("ABOUT ME",f,f,f,A.T(f,f,B.e,f,f,f,f,f,"Roboto",f,f,a3,f,f,B.r,f,f,!0,f,f,f,f,f,f,f,f),f,f),A.j(f,a4,f),A.C(u.R,f,f,f,A.T(f,f,B.e,f,f,f,f,f,e,f,f,a6,f,f,B.B,f,f,!0,f,f,f,f,f,f,f,f),B.bF,f),A.j(f,a0*0.015,f),A.HZ(A.a([A.ox(B.A,a1,B.A,a6,!0,a0*0.05,a6,new A.ago(g),"Find out more",a9)],a7),B.c4,B.af,f,B.i,B.f,f,f,B.bc)],a7),B.E,B.i,B.f)],a7),B.j,B.i,B.f),f),f,a),A.j(f,r,f),A.j(new A.aw(new A.a1(o,n,o,n),A.aa(A.a([A.C("My Services",f,f,f,A.T(f,f,B.e,f,f,f,f,f,"Arima",f,f,a5,f,f,B.r,f,f,!0,f,f,f,f,f,f,f,f),f,f),A.j(f,m,f),A.j(new A.aw(new A.a1(s,s,s,s),A.aa(A.a([A.aQ(B.hG,B.e,s),A.j(f,n,f),A.C("Software Development",f,f,f,A.T(f,f,B.e,f,f,f,f,f,e,f,f,a3,f,f,B.O,f,f,!0,f,f,f,f,f,f,f,f),B.D,f),A.j(f,a4,f),A.C(u.G,f,f,f,A.T(f,f,B.e,f,f,f,f,f,e,f,f,a6,f,f,B.B,f,f,!0,f,f,f,f,f,f,f,f),B.D,f)],a7),B.j,B.i,B.f),f),l,f),A.j(f,m,f),A.j(new A.aw(new A.a1(s,s,s,s),A.aa(A.a([A.aQ(B.hK,B.e,s),A.j(f,n,f),A.C("Huawei Certified ICT Associate Courses",f,f,f,A.T(f,f,B.e,f,f,f,f,f,e,f,f,a3,f,f,B.O,f,f,!0,f,f,f,f,f,f,f,f),B.D,f),A.j(f,a4,f),A.C(u.L,f,f,f,A.T(f,f,B.e,f,f,f,f,f,e,f,f,a6,f,f,B.B,f,f,!0,f,f,f,f,f,f,f,f),B.D,f)],a7),B.j,B.i,B.f),f),l,f),A.j(f,m,f),A.j(new A.aw(new A.a1(s,s,s,s),A.aa(A.a([A.aQ(B.hF,B.e,s),A.j(f,n,f),A.C("Data Analytics",f,f,f,A.T(f,f,B.e,f,f,f,f,f,e,f,f,a3,f,f,B.O,f,f,!0,f,f,f,f,f,f,f,f),B.D,f),A.j(f,a4,f),A.C(u.M,f,f,f,A.T(f,f,B.e,f,f,f,f,f,e,f,f,a6,f,f,B.B,f,f,!0,f,f,f,f,f,f,f,f),B.D,f)],a7),B.j,B.i,B.f),f),l,f),A.j(f,m,f),A.j(new A.aw(new A.a1(s,s,s,s),A.aa(A.a([A.aQ(B.hH,B.e,s),A.j(f,n,f),A.C("Graphic Design",f,f,f,A.T(f,f,B.e,f,f,f,f,f,e,f,f,a3,f,f,B.O,f,f,!0,f,f,f,f,f,f,f,f),B.D,f),A.j(f,a4,f),A.C(u.J,f,f,f,A.T(f,f,B.e,f,f,f,f,f,e,f,f,a6,f,f,B.B,f,f,!0,f,f,f,f,f,f,f,f),B.D,f)],a7),B.j,B.i,B.f),f),l,f)],a7),B.j,B.i,B.f),f),f,a),A.j(f,a4,f),A.j(new A.aw(new A.a1(s,n,s,n),A.aa(A.a([A.C("My Latest Projects",f,f,f,A.T(f,f,B.e,f,f,f,f,f,"Arima",f,f,a5,f,f,B.r,f,f,!0,f,f,f,f,f,f,f,f),f,f),A.j(f,r,f),A.j(A.aoy(new A.agp(g,c),4,B.a4),a0,a)],a7),B.j,B.i,B.f),f),f,a),A.j(f,r,f)],a7),B.j,B.an,B.f),f),A.iu(a1,h,!0,i,h,j,a1,a3,!1,i,a6,j,a5,a2,a2,a0*0.003,k,a5,a5,a2,a,g.e,s,m,a2,a2,n,k,new A.agq(g),a2)],a7),B.j,B.i,B.f))},
+o=b*0.03
+n=a*0.01
+m=a*0.04
+l=b*0.5
+k=b*0.17
+j=a*0.06
+i=b*0.017
+return A.fM(A.aa(A.a([c,new A.aw(new A.a1(s,0,s,0),A.aa(A.a([q,A.j(new A.aw(new A.a1(a0,0,a0,0),A.aa(A.a([new A.aw(new A.a1(a7,a7,a7,a7),A.aO(g,g,B.n,g,g,new A.bB(g,A.dj(B.au,new A.ch(e,g,g),g),p,g,g,g,B.F),g,a*0.6,g,g,g,g,b*0.35),g),A.aa(A.a([A.C("ABOUT ME",g,g,g,A.T(g,g,B.e,g,g,g,g,g,"Roboto",g,g,a2,g,g,B.r,g,g,!0,g,g,g,g,g,g,g,g),g,g),A.j(g,a3,g),A.C(u.R,g,g,g,A.T(g,g,B.e,g,g,g,g,g,f,g,g,a5,g,g,B.B,g,g,!0,g,g,g,g,g,g,g,g),B.bF,g),A.j(g,a*0.015,g),A.HZ(A.a([A.ox(B.A,a0,B.A,a5,!0,a*0.05,a5,new A.ago(h),"Find out more",a8)],a6),B.c4,B.af,g,B.i,B.f,g,g,B.bc)],a6),B.E,B.i,B.f)],a6),B.j,B.i,B.f),g),g,b),A.j(g,r,g),A.j(new A.aw(new A.a1(o,n,o,n),A.aa(A.a([A.C("My Services",g,g,g,A.T(g,g,B.e,g,g,g,g,g,"Arima",g,g,a4,g,g,B.r,g,g,!0,g,g,g,g,g,g,g,g),g,g),A.j(g,m,g),A.j(new A.aw(new A.a1(s,s,s,s),A.aa(A.a([A.aQ(B.hG,B.e,s),A.j(g,n,g),A.C("Software Development",g,g,g,A.T(g,g,B.e,g,g,g,g,g,f,g,g,a2,g,g,B.O,g,g,!0,g,g,g,g,g,g,g,g),B.D,g),A.j(g,a3,g),A.C(u.G,g,g,g,A.T(g,g,B.e,g,g,g,g,g,f,g,g,a5,g,g,B.B,g,g,!0,g,g,g,g,g,g,g,g),B.D,g)],a6),B.j,B.i,B.f),g),g,g),A.j(g,m,g),A.j(new A.aw(new A.a1(s,s,s,s),A.aa(A.a([A.aQ(B.hK,B.e,s),A.j(g,n,g),A.C("Huawei Certified ICT Associate Courses",g,g,g,A.T(g,g,B.e,g,g,g,g,g,f,g,g,a2,g,g,B.O,g,g,!0,g,g,g,g,g,g,g,g),B.D,g),A.j(g,a3,g),A.C(u.L,g,g,g,A.T(g,g,B.e,g,g,g,g,g,f,g,g,a5,g,g,B.B,g,g,!0,g,g,g,g,g,g,g,g),B.D,g)],a6),B.j,B.i,B.f),g),g,g),A.j(g,m,g),A.j(new A.aw(new A.a1(s,s,s,s),A.aa(A.a([A.aQ(B.hF,B.e,s),A.j(g,n,g),A.C("Data Analytics",g,g,g,A.T(g,g,B.e,g,g,g,g,g,f,g,g,a2,g,g,B.O,g,g,!0,g,g,g,g,g,g,g,g),B.D,g),A.j(g,a3,g),A.C(u.M,g,g,g,A.T(g,g,B.e,g,g,g,g,g,f,g,g,a5,g,g,B.B,g,g,!0,g,g,g,g,g,g,g,g),B.D,g)],a6),B.j,B.i,B.f),g),g,g),A.j(g,m,g),A.j(new A.aw(new A.a1(s,s,s,s),A.aa(A.a([A.aQ(B.hH,B.e,s),A.j(g,n,g),A.C("Graphic Design",g,g,g,A.T(g,g,B.e,g,g,g,g,g,f,g,g,a2,g,g,B.O,g,g,!0,g,g,g,g,g,g,g,g),B.D,g),A.j(g,a3,g),A.C(u.J,g,g,g,A.T(g,g,B.e,g,g,g,g,g,f,g,g,a5,g,g,B.B,g,g,!0,g,g,g,g,g,g,g,g),B.D,g)],a6),B.j,B.i,B.f),g),g,g)],a6),B.j,B.i,B.f),g),g,b),A.j(g,a3,g),A.j(new A.aw(new A.a1(s,n,s,n),A.aa(A.a([A.C("My Latest Projects",g,g,g,A.T(g,g,B.e,g,g,g,g,g,"Arima",g,g,a4,g,g,B.r,g,g,!0,g,g,g,g,g,g,g,g),g,g),A.j(g,r,g),A.j(A.aoy(new A.agp(h,d),4,B.a4),g,b)],a6),B.j,B.i,B.f),g),g,b),A.j(g,r,g)],a6),B.j,B.an,B.f),g),A.iu(a0,i,!0,j,i,k,a0,a2,!1,j,a5,k,a4,a1,a1,a*0.003,l,a4,a4,a1,b,h.e,s,m,a1,a1,n,l,new A.agq(h),a1)],a6),B.j,B.i,B.f))},
 jM(b1){var s,r,q,p,o,n,m,l,k,j,i,h,g=this,f=null,e="Poppins",d="assets/images/david2.jpg",c=b1.J(t.w).f.a,b=$.vr(),a=c.a,a0=c.b,a1=a*0.1,a2=a*0.4,a3=a*0.01,a4=a*0.02,a5=a0*0.02,a6=a*0.04,a7=a*0.015,a8=t.p,a9=a0*0.06,b0=a*0.15
 b=A.aO(f,A.dh(B.X,A.a([A.aO(f,f,B.n,f,f,new A.bB(f,A.dj(B.au,new A.ch("assets/images/home2.jpg",f,f),f),f,f,f,f,B.F),f,f,f,f,f,f,a),A.el(f,A.j(new A.lJ(a3/a0*0.05,A.aa(A.a([A.C("THIS IS ME",f,f,f,A.T(f,f,B.e,f,f,f,f,f,e,f,f,a4,f,f,B.dm,f,f,!0,f,f,f,f,f,f,f,f),f,f),A.j(f,a5,f),A.C("DAVID KEMDIRIM",f,f,f,A.T(f,f,B.e,f,f,f,f,f,e,f,f,a6,f,f,B.O,f,f,!0,f,f,f,f,f,f,f,f),f,f),A.C("Software Developer",f,f,f,A.T(f,f,B.e,f,f,f,f,f,e,f,f,a7,f,f,B.B,f,f,!0,f,f,f,f,f,f,f,f),f,f),A.j(f,a5,f),A.zO(f,f,B.ad,f,f,!0,f,A.cx(A.a([A.cx(f,A.T(f,f,B.e,f,f,f,f,f,e,f,f,a7,f,f,B.B,f,f,!0,f,f,f,f,f,f,f,f),u.H),A.cx(f,A.T(f,f,B.e,f,f,f,f,f,e,f,f,a7,f,f,B.r,f,f,!0,f,f,f,f,f,f,f,f),"REAL "),A.cx(f,A.T(f,f,B.e,f,f,f,f,f,e,f,f,a7,f,f,B.B,f,f,!0,f,f,f,f,f,f,f,f),"me.. lol")],t.Ne),f,f),B.aQ,f,f,1,B.W)],a8),B.E,B.an,B.f),f),a0*0.34,a2),f,f,a1,f,a0*0.22,f),A.el(f,A.ox(B.A,a1,B.A,a4,!0,a9,a4,new A.agz(g),"Discover Now",a*0.2),f,f,a1,f,a0*0.55,f),A.el(f,A.anK($.vr(),new A.ch(d,f,f),b0),f,f,a*0.55,f,a0*0.15,f)],a8),B.a2),B.n,b,f,f,f,f,f,f,f,f,f)
 s=a*0.05
@@ -41616,20 +41615,19 @@ k=a0*0.04
 j=a*0.5
 i=a*0.17
 h=a*0.017
-return A.fM(A.aa(A.a([b,new A.aw(new A.a1(s,0,s,0),A.aa(A.a([q,A.j(new A.aw(new A.a1(a1,0,a1,0),A.aa(A.a([new A.aw(new A.a1(p,p,p,p),A.aO(f,f,B.n,f,f,new A.bB(f,A.dj(B.au,new A.ch(d,f,f),f),n,f,f,f,B.F),f,o,f,f,f,f,a2),f),A.aa(A.a([A.C("ABOUT ME",f,f,f,A.T(f,f,B.e,f,f,f,f,f,"Roboto",f,f,a4,f,f,B.r,f,f,!0,f,f,f,f,f,f,f,f),f,f),A.j(f,a5,f),A.C(u.R,f,f,f,A.T(f,f,B.e,f,f,f,f,f,e,f,f,a7,f,f,B.B,f,f,!0,f,f,f,f,f,f,f,f),B.bF,f),A.j(f,a0*0.015,f),A.HZ(A.a([A.ox(B.A,a1,B.A,a7,!0,a0*0.05,a7,new A.agA(g),"Find out more",b0)],a8),B.c4,B.af,f,B.i,B.f,f,f,B.bc)],a8),B.E,B.i,B.f)],a8),B.j,B.i,B.f),f),f,a),A.j(f,r,f),A.j(new A.aw(new A.a1(m,l,m,l),A.aa(A.a([A.C("My Services",f,f,f,A.T(f,f,B.e,f,f,f,f,f,"Arima",f,f,a6,f,f,B.r,f,f,!0,f,f,f,f,f,f,f,f),f,f),A.j(f,k,f),A.j(new A.aw(new A.a1(s,s,s,s),A.aa(A.a([A.aQ(B.hG,B.e,s),A.j(f,l,f),A.C("Software Development",f,f,f,A.T(f,f,B.e,f,f,f,f,f,e,f,f,a4,f,f,B.O,f,f,!0,f,f,f,f,f,f,f,f),B.D,f),A.j(f,a5,f),A.C(u.G,f,f,f,A.T(f,f,B.e,f,f,f,f,f,e,f,f,a7,f,f,B.B,f,f,!0,f,f,f,f,f,f,f,f),B.D,f)],a8),B.j,B.i,B.f),f),o,f),A.j(f,k,f),A.j(new A.aw(new A.a1(s,s,s,s),A.aa(A.a([A.aQ(B.hK,B.e,s),A.j(f,l,f),A.C("Huawei Certified ICT Associate Courses",f,f,f,A.T(f,f,B.e,f,f,f,f,f,e,f,f,a4,f,f,B.O,f,f,!0,f,f,f,f,f,f,f,f),B.D,f),A.j(f,a5,f),A.C(u.L,f,f,f,A.T(f,f,B.e,f,f,f,f,f,e,f,f,a7,f,f,B.B,f,f,!0,f,f,f,f,f,f,f,f),B.D,f)],a8),B.j,B.i,B.f),f),o,f),A.j(f,k,f),A.j(new A.aw(new A.a1(s,s,s,s),A.aa(A.a([A.aQ(B.hF,B.e,s),A.j(f,l,f),A.C("Data Analytics",f,f,f,A.T(f,f,B.e,f,f,f,f,f,e,f,f,a4,f,f,B.O,f,f,!0,f,f,f,f,f,f,f,f),B.D,f),A.j(f,a5,f),A.C(u.M,f,f,f,A.T(f,f,B.e,f,f,f,f,f,e,f,f,a7,f,f,B.B,f,f,!0,f,f,f,f,f,f,f,f),B.D,f)],a8),B.j,B.i,B.f),f),o,f),A.j(f,k,f),A.j(new A.aw(new A.a1(s,s,s,s),A.aa(A.a([A.aQ(B.hH,B.e,s),A.j(f,l,f),A.C("Graphic Design",f,f,f,A.T(f,f,B.e,f,f,f,f,f,e,f,f,a4,f,f,B.O,f,f,!0,f,f,f,f,f,f,f,f),B.D,f),A.j(f,a5,f),A.C(u.J,f,f,f,A.T(f,f,B.e,f,f,f,f,f,e,f,f,a7,f,f,B.B,f,f,!0,f,f,f,f,f,f,f,f),B.D,f)],a8),B.j,B.i,B.f),f),o,f)],a8),B.j,B.i,B.f),f),f,a),A.j(f,a5,f),A.j(new A.aw(new A.a1(s,l,s,l),A.aa(A.a([A.C("My Latest Projects",f,f,f,A.T(f,f,B.e,f,f,f,f,f,"Arima",f,f,a6,f,f,B.r,f,f,!0,f,f,f,f,f,f,f,f),f,f),A.j(f,r,f),A.j(A.aoy(new A.agB(g,c),4,B.a4),a0,a)],a8),B.j,B.i,B.f),f),f,a),A.j(f,r,f)],a8),B.j,B.an,B.f),f),A.iu(a1,h,!0,a9,h,i,a1,a4,!1,a9,a7,i,s,a3,a3,a0*0.003,j,s,s,a4,a,g.e,s,k,a3,a3,l,j,new A.agC(g),a4)],a8),B.j,B.i,B.f))},
-jC(b2){var s,r,q,p,o,n,m,l,k,j,i=this,h=null,g="Poppins",f=b2.J(t.w).f.a,e=f.a,d=A.T(h,h,B.e,h,h,h,h,h,g,h,h,e*0.04,h,h,B.r,h,h,!0,h,h,h,h,h,h,h,h),c=e*0.03,b=A.T(h,h,B.e,h,h,h,h,h,g,h,h,c,h,h,B.aT,h,h,!0,h,h,h,h,h,h,h,h),a=f.b,a0=a*0.01,a1=e*0.1,a2=e*0.11,a3=e*0.6,a4=a*0.4,a5=e*0.01,a6=e*0.02,a7=a*0.02,a8=e*0.07,a9=t.p,b0=e*0.2,b1=a*0.035
-a2=A.j(A.dh(B.X,A.a([A.aO(h,h,B.n,h,h,new A.bB(h,A.dj(B.au,new A.ch("assets/images/home2.jpg",h,h),h),h,h,h,h,B.F),h,h,h,h,h,h,e),A.el(h,new A.aw(new A.a1(a2,0,a2,0),A.j(new A.lJ(a5/a*0.05,A.aa(A.a([A.C("THIS IS ME",h,h,h,A.T(h,h,B.e,h,h,h,h,h,g,h,h,a6,h,h,B.dm,h,h,!0,h,h,h,h,h,h,h,h),h,h),A.j(h,a7,h),A.C("DAVID KEMDIRIM",h,h,h,A.T(h,h,B.e,h,h,h,h,h,g,h,h,a8,h,h,B.aT,h,h,!0,h,h,h,h,h,h,h,h),h,h),A.C("Software Developer",h,h,h,A.T(h,h,B.e,h,h,h,h,h,g,h,h,c,h,h,B.B,h,h,!0,h,h,h,h,h,h,h,h),h,h),A.j(h,a7,h),A.zO(h,h,B.ad,h,h,!0,h,A.cx(A.a([A.cx(h,A.T(h,h,B.e,h,h,h,h,h,g,h,h,c,h,h,B.B,h,h,!0,h,h,h,h,h,h,h,h),u.H),A.cx(h,A.T(h,h,B.e,h,h,h,h,h,g,h,h,c,h,h,B.r,h,h,!0,h,h,h,h,h,h,h,h),"REAL "),A.cx(h,A.T(h,h,B.e,h,h,h,h,h,g,h,h,c,h,h,B.B,h,h,!0,h,h,h,h,h,h,h,h),"me.. lol")],t.Ne),h,h),B.aQ,h,h,1,B.W)],a9),B.E,B.an,B.f),h),a4,a3),h),h,h,a1,h,a0,h),A.el(h,new A.aw(new A.a1(a2,0,a2,0),A.ox(B.A,a1,B.A,a6,!0,b1,a6,new A.agu(i),"Discover Now",b0),h),h,h,a1,h,a*0.35,h)],a9),B.a2),h,h)
-s=a*0.1
-r=A.j(h,s,h)
-q=a*0.04
+return A.fM(A.aa(A.a([b,new A.aw(new A.a1(s,0,s,0),A.aa(A.a([q,A.j(new A.aw(new A.a1(a1,0,a1,0),A.aa(A.a([new A.aw(new A.a1(p,p,p,p),A.aO(f,f,B.n,f,f,new A.bB(f,A.dj(B.au,new A.ch(d,f,f),f),n,f,f,f,B.F),f,o,f,f,f,f,a2),f),A.aa(A.a([A.C("ABOUT ME",f,f,f,A.T(f,f,B.e,f,f,f,f,f,"Roboto",f,f,a4,f,f,B.r,f,f,!0,f,f,f,f,f,f,f,f),f,f),A.j(f,a5,f),A.C(u.R,f,f,f,A.T(f,f,B.e,f,f,f,f,f,e,f,f,a7,f,f,B.B,f,f,!0,f,f,f,f,f,f,f,f),B.bF,f),A.j(f,a0*0.015,f),A.HZ(A.a([A.ox(B.A,a1,B.A,a7,!0,a0*0.05,a7,new A.agA(g),"Find out more",b0)],a8),B.c4,B.af,f,B.i,B.f,f,f,B.bc)],a8),B.E,B.i,B.f)],a8),B.j,B.i,B.f),f),f,a),A.j(f,r,f),A.j(new A.aw(new A.a1(m,l,m,l),A.aa(A.a([A.C("My Services",f,f,f,A.T(f,f,B.e,f,f,f,f,f,"Arima",f,f,a6,f,f,B.r,f,f,!0,f,f,f,f,f,f,f,f),f,f),A.j(f,k,f),A.j(new A.aw(new A.a1(s,s,s,s),A.aa(A.a([A.aQ(B.hG,B.e,s),A.j(f,l,f),A.C("Software Development",f,f,f,A.T(f,f,B.e,f,f,f,f,f,e,f,f,a4,f,f,B.O,f,f,!0,f,f,f,f,f,f,f,f),B.D,f),A.j(f,a5,f),A.C(u.G,f,f,f,A.T(f,f,B.e,f,f,f,f,f,e,f,f,a7,f,f,B.B,f,f,!0,f,f,f,f,f,f,f,f),B.D,f)],a8),B.j,B.i,B.f),f),f,f),A.j(f,k,f),A.j(new A.aw(new A.a1(s,s,s,s),A.aa(A.a([A.aQ(B.hK,B.e,s),A.j(f,l,f),A.C("Huawei Certified ICT Associate Courses",f,f,f,A.T(f,f,B.e,f,f,f,f,f,e,f,f,a4,f,f,B.O,f,f,!0,f,f,f,f,f,f,f,f),B.D,f),A.j(f,a5,f),A.C(u.L,f,f,f,A.T(f,f,B.e,f,f,f,f,f,e,f,f,a7,f,f,B.B,f,f,!0,f,f,f,f,f,f,f,f),B.D,f)],a8),B.j,B.i,B.f),f),o,f),A.j(f,k,f),A.j(new A.aw(new A.a1(s,s,s,s),A.aa(A.a([A.aQ(B.hF,B.e,s),A.j(f,l,f),A.C("Data Analytics",f,f,f,A.T(f,f,B.e,f,f,f,f,f,e,f,f,a4,f,f,B.O,f,f,!0,f,f,f,f,f,f,f,f),B.D,f),A.j(f,a5,f),A.C(u.M,f,f,f,A.T(f,f,B.e,f,f,f,f,f,e,f,f,a7,f,f,B.B,f,f,!0,f,f,f,f,f,f,f,f),B.D,f)],a8),B.j,B.i,B.f),f),o,f),A.j(f,k,f),A.j(new A.aw(new A.a1(s,s,s,s),A.aa(A.a([A.aQ(B.hH,B.e,s),A.j(f,l,f),A.C("Graphic Design",f,f,f,A.T(f,f,B.e,f,f,f,f,f,e,f,f,a4,f,f,B.O,f,f,!0,f,f,f,f,f,f,f,f),B.D,f),A.j(f,a5,f),A.C(u.J,f,f,f,A.T(f,f,B.e,f,f,f,f,f,e,f,f,a7,f,f,B.B,f,f,!0,f,f,f,f,f,f,f,f),B.D,f)],a8),B.j,B.i,B.f),f),o,f)],a8),B.j,B.i,B.f),f),f,a),A.j(f,a5,f),A.j(new A.aw(new A.a1(s,l,s,l),A.aa(A.a([A.C("My Latest Projects",f,f,f,A.T(f,f,B.e,f,f,f,f,f,"Arima",f,f,a6,f,f,B.r,f,f,!0,f,f,f,f,f,f,f,f),f,f),A.j(f,r,f),A.j(A.aoy(new A.agB(g,c),4,B.a4),f,a)],a8),B.j,B.i,B.f),f),f,a),A.j(f,r,f)],a8),B.j,B.an,B.f),f),A.iu(a1,h,!0,a9,h,i,a1,a4,!1,a9,a7,i,s,a3,a3,a0*0.003,j,s,s,a4,a,g.e,s,k,a3,a3,l,j,new A.agC(g),a4)],a8),B.j,B.i,B.f))},
+jC(b0){var s,r,q,p,o,n,m,l,k,j=this,i=null,h="Poppins",g=b0.J(t.w).f.a,f=g.a,e=A.T(i,i,B.e,i,i,i,i,i,h,i,i,f*0.04,i,i,B.r,i,i,!0,i,i,i,i,i,i,i,i),d=f*0.03,c=A.T(i,i,B.e,i,i,i,i,i,h,i,i,d,i,i,B.aT,i,i,!0,i,i,i,i,i,i,i,i),b=g.b,a=b*0.01,a0=f*0.1,a1=f*0.11,a2=f*0.6,a3=b*0.4,a4=f*0.01,a5=f*0.02,a6=b*0.02,a7=f*0.07,a8=t.p,a9=f*0.2
+a1=A.j(A.dh(B.X,A.a([A.aO(i,i,B.n,i,i,new A.bB(i,A.dj(B.au,new A.ch("assets/images/home2.jpg",i,i),i),i,i,i,i,B.F),i,i,i,i,i,i,f),A.el(i,new A.aw(new A.a1(a1,0,a1,0),A.j(new A.lJ(a4/b*0.05,A.aa(A.a([A.C("THIS IS ME",i,i,i,A.T(i,i,B.e,i,i,i,i,i,h,i,i,a5,i,i,B.dm,i,i,!0,i,i,i,i,i,i,i,i),i,i),A.j(i,a6,i),A.C("DAVID KEMDIRIM",i,i,i,A.T(i,i,B.e,i,i,i,i,i,h,i,i,a7,i,i,B.aT,i,i,!0,i,i,i,i,i,i,i,i),i,i),A.C("Software Developer",i,i,i,A.T(i,i,B.e,i,i,i,i,i,h,i,i,d,i,i,B.B,i,i,!0,i,i,i,i,i,i,i,i),i,i),A.j(i,a6,i),A.zO(i,i,B.ad,i,i,!0,i,A.cx(A.a([A.cx(i,A.T(i,i,B.e,i,i,i,i,i,h,i,i,d,i,i,B.B,i,i,!0,i,i,i,i,i,i,i,i),u.H),A.cx(i,A.T(i,i,B.e,i,i,i,i,i,h,i,i,d,i,i,B.r,i,i,!0,i,i,i,i,i,i,i,i),"REAL "),A.cx(i,A.T(i,i,B.e,i,i,i,i,i,h,i,i,d,i,i,B.B,i,i,!0,i,i,i,i,i,i,i,i),"me.. lol")],t.Ne),i,i),B.aQ,i,i,1,B.W)],a8),B.E,B.an,B.f),i),a3,a2),i),i,i,a0,i,a,i),A.el(i,new A.aw(new A.a1(a1,0,a1,0),A.ox(B.A,a0,B.A,a5,!0,b*0.035,a5,new A.agu(j),"Discover Now",a9),i),i,i,a0,i,b*0.35,i)],a8),B.a2),i,i)
+s=b*0.1
+r=A.j(i,s,i)
+q=b*0.04
 p=A.lO(B.k,1)
-o=e*0.05
-n=a*0.6
-m=e*0.15
-l=a*0.65
-k=a*0.05
-j=e*0.8
-return A.fM(A.aa(A.a([a2,r,A.j(new A.aw(new A.a1(a1,0,a1,0),A.aa(A.a([new A.aw(new A.a1(q,q,q,q),A.aO(h,h,B.n,h,h,new A.bB(h,A.dj(B.au,new A.ch("assets/images/david2.jpg",h,h),h),p,h,h,h,B.F),h,a4,h,h,h,h,a3),h),A.aa(A.a([A.C("ABOUT ME",h,h,h,A.T(h,h,B.e,h,h,h,h,h,"Roboto",h,h,o,h,h,B.r,h,h,!0,h,h,h,h,h,h,h,h),h,h),A.j(h,a7,h),A.C(u.R,h,h,h,b,B.bF,h),A.j(h,a0,h),A.HZ(A.a([A.ox(B.A,a1,B.A,e*0.025,!0,b1,a6,new A.agv(i),"Find out more",b0)],a9),B.c4,B.af,h,B.i,B.f,h,h,B.bc)],a9),B.E,B.i,B.f)],a9),B.j,B.i,B.f),h),h,e),A.j(h,s,h),A.aO(h,new A.aw(new A.a1(o,a0,o,a0),A.aa(A.a([A.C("My Services",h,h,h,A.T(h,h,B.e,h,h,h,h,h,"Arima",h,h,a8,h,h,B.r,h,h,!0,h,h,h,h,h,h,h,h),h,h),A.j(h,a0,h),A.j(new A.aw(new A.a1(o,o,o,o),A.aa(A.a([A.aQ(B.hG,B.e,m),A.j(h,a0,h),A.C("Software Development",h,h,h,d,B.D,h),A.j(h,a7,h),A.C(u.G,h,h,h,b,B.D,h)],a9),B.j,B.i,B.f),h),n,h),A.j(h,a0,h),A.j(new A.aw(new A.a1(o,o,o,o),A.aa(A.a([A.aQ(B.hK,B.e,m),A.j(h,a0,h),A.C("Huawei Certified ICT Associate Courses",h,h,h,d,B.D,h),A.j(h,a7,h),A.C(u.L,h,h,h,b,B.D,h)],a9),B.j,B.i,B.f),h),l,h),A.j(h,a0,h),A.j(new A.aw(new A.a1(o,o,o,o),A.aa(A.a([A.aQ(B.hF,B.e,m),A.j(h,a0,h),A.C("Data Analytics",h,h,h,d,B.D,h),A.j(h,a7,h),A.C(u.M,h,h,h,b,B.D,h)],a9),B.j,B.i,B.f),h),l,h),A.j(h,a0,h),A.j(new A.aw(new A.a1(o,o,o,o),A.aa(A.a([A.aQ(B.hH,B.e,m),A.j(h,a0,h),A.C("Graphic Design",h,h,h,d,B.D,h),A.j(h,a7,h),A.C(u.J,h,h,h,b,B.D,h)],a9),B.j,B.i,B.f),h),n,h)],a9),B.j,B.i,B.f),h),B.n,B.z,h,h,h,h,h,h,h,h,e),A.j(h,a7,h),new A.aw(new A.a1(o,0,o,0),A.aO(h,new A.aw(new A.a1(o,a0,o,a0),A.aa(A.a([A.C("My Latest Projects",h,h,h,A.T(h,h,B.e,h,h,h,h,h,"Arima",h,h,a8,h,h,B.r,h,h,!0,h,h,h,h,h,h,h,h),h,h),A.j(h,k,h),A.j(A.aoy(new A.agw(i,f),4,B.a4),a,e)],a9),B.j,B.i,B.f),h),B.n,B.z,h,h,h,h,h,h,h,h,e),h),A.j(h,k,h),A.iu(m,a6,!0,q,a6,b0,m,e*0.035,!1,k,c,e*0.3,o,a6,a5,a*0.003,j,o,o,a6,e,i.e,c,q,a6,a5,a0,j,new A.agx(i),c)],a9),B.j,B.i,B.f))}}
+o=f*0.05
+n=f*0.15
+m=b*0.65
+l=b*0.05
+k=f*0.8
+return A.fM(A.aa(A.a([a1,r,A.j(new A.aw(new A.a1(a0,0,a0,0),A.aa(A.a([new A.aw(new A.a1(q,q,q,q),A.aO(i,i,B.n,i,i,new A.bB(i,A.dj(B.au,new A.ch("assets/images/david2.jpg",i,i),i),p,i,i,i,B.F),i,a3,i,i,i,i,a2),i),A.aa(A.a([A.C("ABOUT ME",i,i,i,A.T(i,i,B.e,i,i,i,i,i,"Roboto",i,i,o,i,i,B.r,i,i,!0,i,i,i,i,i,i,i,i),i,i),A.j(i,a6,i),A.C(u.R,i,i,i,c,B.bF,i),A.j(i,a,i),A.HZ(A.a([A.ox(B.A,a0,B.A,f*0.025,!0,b*0.038,a5,new A.agv(j),"Find out more",f*0.23)],a8),B.c4,B.af,i,B.i,B.f,i,i,B.bc)],a8),B.E,B.i,B.f)],a8),B.j,B.i,B.f),i),i,f),A.j(i,s,i),A.aO(i,new A.aw(new A.a1(o,a,o,a),A.aa(A.a([A.C("My Services",i,i,i,A.T(i,i,B.e,i,i,i,i,i,"Arima",i,i,a7,i,i,B.r,i,i,!0,i,i,i,i,i,i,i,i),i,i),A.j(i,a,i),A.j(new A.aw(new A.a1(o,o,o,o),A.aa(A.a([A.aQ(B.hG,B.e,n),A.j(i,a,i),A.C("Software Development",i,i,i,e,B.D,i),A.j(i,a6,i),A.C(u.G,i,i,i,c,B.D,i)],a8),B.j,B.i,B.f),i),i,i),A.j(i,a,i),A.j(new A.aw(new A.a1(o,o,o,o),A.aa(A.a([A.aQ(B.hK,B.e,n),A.j(i,a,i),A.C("Huawei Certified ICT Associate Courses",i,i,i,e,B.D,i),A.j(i,a6,i),A.C(u.L,i,i,i,c,B.D,i)],a8),B.j,B.i,B.f),i),m,i),A.j(i,a,i),A.j(new A.aw(new A.a1(o,o,o,o),A.aa(A.a([A.aQ(B.hF,B.e,n),A.j(i,a,i),A.C("Data Analytics",i,i,i,e,B.D,i),A.j(i,a6,i),A.C(u.M,i,i,i,c,B.D,i)],a8),B.j,B.i,B.f),i),m,i),A.j(i,a,i),A.j(new A.aw(new A.a1(o,o,o,o),A.aa(A.a([A.aQ(B.hH,B.e,n),A.j(i,a,i),A.C("Graphic Design",i,i,i,e,B.D,i),A.j(i,a6,i),A.C(u.J,i,i,i,c,B.D,i)],a8),B.j,B.i,B.f),i),b*0.6,i)],a8),B.j,B.i,B.f),i),B.n,B.z,i,i,i,i,i,i,i,i,f),A.j(i,a6,i),new A.aw(new A.a1(o,0,o,0),A.aO(i,new A.aw(new A.a1(o,a,o,a),A.aa(A.a([A.C("My Latest Projects",i,i,i,A.T(i,i,B.e,i,i,i,i,i,"Arima",i,i,a7,i,i,B.r,i,i,!0,i,i,i,i,i,i,i,i),i,i),A.j(i,l,i),A.j(A.aoy(new A.agw(j,g),4,B.a4),i,f)],a8),B.j,B.i,B.f),i),B.n,B.z,i,i,i,i,i,i,i,i,f),i),A.j(i,l,i),A.iu(n,a5,!0,q,a5,a9,n,f*0.035,!1,l,d,f*0.3,o,a5,a4,b*0.003,k,o,o,a5,f,j.e,d,q,a5,a4,a,k,new A.agx(j),d)],a8),B.j,B.i,B.f))}}
 A.ags.prototype={
 $0(){$.cC="home"},
 $S:0}
@@ -41817,7 +41815,7 @@ $S:0}
 A.aip.prototype={
 $0(){var s=0,r=A.P(t.H),q=this,p
 var $async$$0=A.Q(function(a,b){if(a===1)return A.M(b,r)
-while(true)switch(s){case 0:p=B.i4[q.a.a.c]
+while(true)switch(s){case 0:p=B.i3[q.a.a.c]
 s=4
 return A.I(A.dX(A.c9(p,0,null)),$async$$0)
 case 4:s=b?2:3
@@ -41841,7 +41839,7 @@ $S:6}
 A.aix.prototype={
 $0(){var s=0,r=A.P(t.H),q=this,p
 var $async$$0=A.Q(function(a,b){if(a===1)return A.M(b,r)
-while(true)switch(s){case 0:p=B.i4[q.a.a.c]
+while(true)switch(s){case 0:p=B.i3[q.a.a.c]
 s=4
 return A.I(A.dX(A.c9(p,0,null)),$async$$0)
 case 4:s=b?2:3
@@ -41865,7 +41863,7 @@ $S:6}
 A.aiu.prototype={
 $0(){var s=0,r=A.P(t.H),q=this,p
 var $async$$0=A.Q(function(a,b){if(a===1)return A.M(b,r)
-while(true)switch(s){case 0:p=B.i4[q.a.a.c]
+while(true)switch(s){case 0:p=B.i3[q.a.a.c]
 s=4
 return A.I(A.dX(A.c9(p,0,null)),$async$$0)
 case 4:s=b?2:3
@@ -79777,6 +79775,7 @@ B.Di=new A.kF(B.EU,"image/webp")
 B.Er=A.a(s([66,77]),t.Z)
 B.Dg=new A.kF(B.Er,"image/bmp")
 B.Fp=A.a(s([B.Dl,B.Dj,B.Dk,B.Dh,B.Di,B.Dg]),A.ah("x<kF>"))
+B.i3=A.a(s(["https://pstc.netlify.app","https://github.com/DavidJoanes/jogenics","https://acecore.tech","https://github.com/DavidJoanes/",""]),t.ee)
 B.lH=new A.jS(0,"left")
 B.wZ=new A.jS(1,"right")
 B.D=new A.jS(2,"center")
@@ -79784,8 +79783,7 @@ B.bF=new A.jS(3,"justify")
 B.aQ=new A.jS(4,"start")
 B.x_=new A.jS(5,"end")
 B.Fq=A.a(s([B.lH,B.wZ,B.D,B.bF,B.aQ,B.x_]),A.ah("x<jS>"))
-B.i3=A.a(s([!0,!1]),t.HZ)
-B.i4=A.a(s(["https://pstc.netlify.app","https://github.com/DavidJoanes/jogenics","https://acecore.tech","https://github.com/DavidJoanes/powercore",""]),t.ee)
+B.i4=A.a(s([!0,!1]),t.HZ)
 B.of=A.a(s(["bind","if","ref","repeat","syntax"]),t.s)
 B.FC=A.a(s([0,4,12,1,5,13,3,7,15]),t.t)
 B.i5=A.a(s(["A::href","AREA::href","BLOCKQUOTE::cite","BODY::background","COMMAND::icon","DEL::cite","FORM::action","IMG::src","INPUT::src","INS::cite","Q::cite","VIDEO::poster"]),t.s)
@@ -81907,7 +81905,7 @@ return q})
 r($,"aMu","ay4",()=>{var q=A.ah("~(b6<b3>)")
 return A.aF([B.OM,A.arR(!0),B.Pv,A.arR(!1),B.P3,new A.L6(A.rI(q)),B.OW,new A.Jl(A.rI(q)),B.P_,new A.Kf(A.rI(q)),B.xk,new A.wP(!1,A.rI(q)),B.P4,new A.Lr(A.rI(q)),B.P0,new A.Kh(A.rI(q)),B.Pf,new A.Nb(A.rI(q))],t.n,t.od)})
 s($,"aKV","anb",()=>{var q,p,o,n=t.vz,m=A.y(t.Vz,n)
-for(q=A.ah("aL"),p=0;p<2;++p){o=B.i3[p]
+for(q=A.ah("aL"),p=0;p<2;++p){o=B.i4[p]
 m.K(0,A.aF([A.e5(B.aW,!1,!1,!1,o),B.nj,A.e5(B.aW,!1,!0,!1,o),B.nn,A.e5(B.aW,!0,!1,!1,o),B.nl,A.e5(B.aO,!1,!1,!1,o),B.nk,A.e5(B.aO,!1,!0,!1,o),B.no,A.e5(B.aO,!0,!1,!1,o),B.nm],q,n))}m.l(0,B.fo,B.hp)
 m.l(0,B.fp,B.hq)
 m.l(0,B.fq,B.hv)
@@ -81946,7 +81944,7 @@ q.l(0,B.fl,B.nA)
 q.l(0,B.fn,B.nB)
 return q})
 s($,"aKZ","aqq",()=>{var q,p,o,n=t.vz,m=A.y(t.Vz,n)
-for(q=A.ah("aL"),p=0;p<2;++p){o=B.i3[p]
+for(q=A.ah("aL"),p=0;p<2;++p){o=B.i4[p]
 m.K(0,A.aF([A.e5(B.aW,!1,!1,!1,o),B.nj,A.e5(B.aW,!0,!1,!1,o),B.nn,A.e5(B.aW,!1,!1,!0,o),B.nl,A.e5(B.aO,!1,!1,!1,o),B.nk,A.e5(B.aO,!0,!1,!1,o),B.no,A.e5(B.aO,!1,!1,!0,o),B.nm],q,n))}m.l(0,B.fo,B.hp)
 m.l(0,B.fp,B.hq)
 m.l(0,B.fq,B.hv)
@@ -82003,7 +82001,7 @@ q.l(0,B.JG,B.hr)
 q.l(0,B.JH,B.hs)
 return q})
 s($,"aL_","axl",()=>{var q,p,o,n=t.vz,m=A.y(t.Vz,n)
-for(q=A.ah("aL"),p=0;p<2;++p){o=B.i3[p]
+for(q=A.ah("aL"),p=0;p<2;++p){o=B.i4[p]
 m.K(0,A.aF([A.e5(B.aW,!1,!1,!1,o),B.v,A.e5(B.aO,!1,!1,!1,o),B.v,A.e5(B.aW,!0,!1,!1,o),B.v,A.e5(B.aO,!0,!1,!1,o),B.v,A.e5(B.aW,!1,!0,!1,o),B.v,A.e5(B.aO,!1,!0,!1,o),B.v,A.e5(B.aW,!1,!1,!0,o),B.v,A.e5(B.aO,!1,!1,!0,o),B.v],q,n))}m.l(0,B.lz,B.v)
 m.l(0,B.lw,B.v)
 m.l(0,B.lx,B.v)
