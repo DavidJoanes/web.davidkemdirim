@@ -40564,7 +40564,7 @@ G(a){var s=null,r=t.p
 return A.A0(s,A.l0(!0,A.LJ(A.aa(A.a([A.dh(B.W,A.a([new A.jK(this.jo(a),this.jM(a),this.jC(a),s),new A.kE(B.y,s)],r),B.a1)],r),B.j,B.i,B.f)),B.Y,!0),new A.kS(s))},
 jo(a){var s,r,q,p,o,n=null,m=a.J(t.w).f.a,l=m.a,k=l*0.1,j=m.b,i=j*0.1,h=A.n(n,i,n),g=j*0.8,f=A.lQ(B.k,1),e=l*0.05,d=t.p
 f=A.a([h,A.dh(B.W,A.a([A.aL(n,n,B.n,n,n,new A.bz(n,A.dj(B.cy,new A.ch("assets/images/certifications.jpg",n,n),n),f,n,n,n,B.F),n,g,n,n,n,n,l),A.el(n,A.J("CERTIFICATIONS",n,n,n,A.R(n,n,B.A,n,n,n,n,n,"Roboto",n,n,e,n,n,B.r,n,n,!0,n,n,n,n,n,n,n,n),B.D,n),n,n,l/5,n,j*0.37,n)],d),B.a1),A.n(n,i,n),A.c5(B.hJ,B.bg,k),A.n(n,i,n)],d)
-for(h=$.anQ,s=j*0.03,r=l*0.001,q=0;q<2;++q){p=new A.cz(B.A,r,B.as,B.a5)
+for(h=$.anQ,s=j*0.03,r=l*0.001,q=0;q<3;++q){p=new A.cz(B.A,r,B.as,B.a5)
 f.push(new A.aw(new A.a1(0,s,0,s),A.aL(n,n,B.n,n,n,new A.bz(n,A.dj(B.ee,new A.ch("assets/images/certificates/"+h[q],n,n),n),new A.co(p,p,p,p),n,n,n,B.F),n,g,n,n,n,n,l),n))}f.push(A.n(n,i,n))
 i=l*0.04
 h=l*0.5
@@ -40575,7 +40575,7 @@ o=l*0.017
 return A.fM(A.aa(A.a([A.aL(n,new A.aw(new A.a1(k,0,k,0),A.aa(f,B.j,B.i,B.f),n),B.n,B.y,n,n,n,n,n,n,n,n,l),A.iu(k,o,!0,r,o,s,k,l*0.02,!1,r,l*0.015,s,i,g,g,j*0.003,h,i,i,g,l,this.d,e,j*0.04,g,g,j*0.01,h,new A.ae1(this),g)],d),B.j,B.i,B.f))},
 jM(a){var s,r,q,p,o,n,m=null,l=a.J(t.w).f.a,k=l.a,j=k*0.1,i=l.b,h=i*0.1,g=A.n(m,h,m),f=A.lQ(B.k,1),e=k*0.05,d=t.p
 f=A.a([g,A.dh(B.W,A.a([A.aL(m,m,B.n,m,m,new A.bz(m,A.dj(B.cy,new A.ch("assets/images/certifications.jpg",m,m),m),f,m,m,m,B.F),m,i*0.8,m,m,m,m,k),A.el(m,A.J("CERTIFICATIONS",m,m,m,A.R(m,m,B.A,m,m,m,m,m,"Roboto",m,m,e,m,m,B.r,m,m,!0,m,m,m,m,m,m,m,m),B.D,m),m,m,k/5,m,i*0.37,m)],d),B.a1),A.c5(B.hJ,B.bg,k*0.15),A.n(m,h,m)],d)
-for(g=$.anQ,s=i*0.03,r=i*0.6,q=k*0.001,p=0;p<2;++p){o=new A.cz(B.A,q,B.as,B.a5)
+for(g=$.anQ,s=i*0.03,r=i*0.6,q=k*0.001,p=0;p<3;++p){o=new A.cz(B.A,q,B.as,B.a5)
 f.push(new A.aw(new A.a1(0,s,0,s),A.aL(m,m,B.n,m,m,new A.bz(m,A.dj(B.ee,new A.ch("assets/images/certificates/"+g[p],m,m),m),new A.co(o,o,o,o),m,m,m,B.F),m,r,m,m,m,m,k),m))}f.push(A.n(m,h,m))
 h=k*0.5
 g=k*0.01
@@ -40586,7 +40586,7 @@ n=k*0.017
 return A.fM(A.aa(A.a([A.aL(m,new A.aw(new A.a1(j,0,j,0),A.aa(f,B.j,B.i,B.f),m),B.n,B.y,m,m,m,m,m,m,m,m,k),A.iu(j,n,!0,r,n,s,j,q,!1,r,k*0.015,s,e,g,g,i*0.003,h,e,e,q,k,this.d,e,i*0.04,g,g,i*0.01,h,new A.ae5(this),q)],d),B.j,B.i,B.f))},
 jC(a){var s,r,q,p,o,n,m,l,k=null,j=a.J(t.w).f.a,i=j.a,h=i*0.1,g=i*0.05,f=j.b,e=f*0.1,d=A.lQ(B.k,1),c=t.p,b=i*0.2
 e=A.a([new A.aw(new A.a1(g,e,g,e),A.dh(B.W,A.a([A.aL(k,k,B.n,k,k,new A.bz(k,A.dj(B.cy,new A.ch("assets/images/certifications.jpg",k,k),k),d,k,k,k,B.F),k,f*0.3,k,k,k,k,i),A.el(k,A.J("CERTIFICATIONS",k,k,k,A.R(k,k,B.A,k,k,k,k,k,"Roboto",k,k,g,k,k,B.r,k,k,!0,k,k,k,k,k,k,k,k),B.D,k),k,k,i/6.3,k,f*0.13,k)],c),B.a1),k),A.c5(B.hJ,B.bg,b),A.n(k,e,k)],c)
-for(d=$.anQ,s=f*0.03,r=f*0.28,q=i*0.001,p=0;p<2;++p){o=new A.cz(B.A,q,B.as,B.a5)
+for(d=$.anQ,s=f*0.03,r=f*0.28,q=i*0.001,p=0;p<3;++p){o=new A.cz(B.A,q,B.as,B.a5)
 e.push(new A.aw(new A.a1(0,s,0,s),A.aL(k,k,B.n,k,k,new A.bz(k,A.dj(B.ee,new A.ch("assets/images/certificates/"+d[p],k,k),k),new A.co(o,o,o,o),k,k,k,B.F),k,r,k,k,k,k,i),k))}d=f*0.05
 e.push(A.n(k,d,k))
 s=i*0.03
@@ -81682,7 +81682,7 @@ $.PF=A.y(t.N,t._8)
 $.cC=null
 $.aqi=function(){var s=t.s
 return A.a([A.a(["assets/images/projects/pstc/1.png","assets/images/projects/pstc/2.png","assets/images/projects/pstc/3.png","assets/images/projects/pstc/4.png","assets/images/projects/pstc/5.png","assets/images/projects/pstc/6.png"],s),A.a(["assets/images/projects/jogenicsHMS/1.png","assets/images/projects/jogenicsHMS/2.png","assets/images/projects/jogenicsHMS/3.png","assets/images/projects/jogenicsHMS/4.png","assets/images/projects/jogenicsHMS/5.png","assets/images/projects/jogenicsHMS/6.png"],s),A.a(["assets/images/projects/powercore/1.png","assets/images/projects/powercore/2.png","assets/images/projects/powercore/3.png"],s),A.a(["assets/images/projects/sar/1.png","assets/images/projects/sar/2.png","assets/images/projects/sar/3.png","assets/images/projects/sar/4.png","assets/images/projects/sar/5.png"],s)],A.ah("x<B<j>>"))}()
-$.anQ=["ai.png","storage.pngdatacom.png"]
+$.anQ=["ai.png","storage.png","datacom.png"]
 $.fz=["https://github.com/DavidJoanes","https://www.linkedin.com/in/david-kemdirim-019813155","https://twitter.com/call_me_joanes?t=7X8c-T6wpg2YkpuSLs28vQ&s=09"]
 $.bM=0
 $.o6=B.xH
