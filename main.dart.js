@@ -15453,7 +15453,7 @@ DT:function DT(){},
 TU:function TU(){},
 ayE(a,b){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e=null,d={}
 d.a=b
-if(a==null)a=B.iA
+if(a==null)a=B.iB
 s=J.aK(a)
 r=s.gq(a)-1
 q=A.b8(0,e,!1,t.LQ)
@@ -15601,7 +15601,7 @@ q.gF6()
 p.sF6(q.gF6())
 q.gy0()
 p.sy0(q.gy0())
-r.kB(0,B.iA,p)
+r.kB(0,B.iB,p)
 r.sb8(0,b.gb8(b))
 r.sbU(0,b.gbU(b))
 r.dx=b.gajH()
@@ -24814,9 +24814,9 @@ s=A.l(r)
 s=A.aHq(new A.dD(new A.aO(r,new A.YH(),s.i("aO<r.E>")),new A.YI(),s.i("dD<r.E,d>")),new A.YJ())
 return s==null?null:s.content},
 yV(a){var s
-if(A.c9(a,0,null).gQp())return A.qi(B.iB,a,B.U,!1)
+if(A.c9(a,0,null).gQp())return A.qi(B.iC,a,B.U,!1)
 s=this.gZC()
-return A.qi(B.iB,(s==null?"":s)+"assets/"+a,B.U,!1)},
+return A.qi(B.iC,(s==null?"":s)+"assets/"+a,B.U,!1)},
 eg(a,b){return this.agj(0,b)},
 agj(a,b){var s=0,r=A.R(t.V4),q,p=2,o,n=this,m,l,k,j,i,h,g,f,e,d,c
 var $async$eg=A.S(function(a0,a1){if(a0===1){o=a1
@@ -42694,7 +42694,7 @@ j=A.n(a0,b2,a0)
 i=A.J(u._,1471,a0,a0,a5,a0,a0)
 r=A.n(a0,r,a0)
 h=A.a([],b4)
-for(g=0;g<15;++g){f=B.iE[g]
+for(g=0;g<15;++g){f=B.ix[g]
 h.push(A.bA(A.a([A.bV(B.i8,B.e,b1),new A.jR(b0,a0,a0,a0),A.J(f,1471,a0,a0,a5,a0,a0)],b4),B.m,B.k,B.f))}e=a7*0.06
 d=a7*0.01
 c=a3*0.04
@@ -42717,7 +42717,7 @@ k=A.n(a,b2,a)
 j=A.J(u._,1471,a,a,a4,a,a)
 s=A.n(a,s,a)
 i=A.a([],b4)
-for(h=0;h<15;++h){g=B.iE[h]
+for(h=0;h<15;++h){g=B.ix[h]
 i.push(A.bA(A.a([A.bV(B.i8,B.e,a3),new A.jR(q,a,a,a),A.J(g,1471,a,a,a4,a,a)],b4),B.m,B.k,B.f))}f=a6*0.06
 e=a6*0.01
 d=a2*0.05
@@ -42743,7 +42743,7 @@ l=A.n(a6,l,a6)
 f=A.J(u._,1471,a6,a6,b0,a6,a6)
 e=A.n(a6,o,a6)
 d=A.a([],q)
-for(c=a9*0.02,b=0;b<15;++b){a=B.iE[b]
+for(c=a9*0.02,b=0;b<15;++b){a=B.ix[b]
 d.push(A.bA(A.a([A.bV(B.i8,B.e,r),new A.jR(c,a6,a6,a6),A.J(a,1471,a6,a6,b0,a6,a6)],q),B.m,B.k,B.f))}a0=b2*0.05
 a1=a9*0.03
 a2=a9*0.05
@@ -44049,7 +44049,7 @@ this.aC()},
 G(a){var s=null,r=t.p
 return A.AC(s,A.Ni(A.ab(A.a([A.d6(B.a1,A.a([new A.jO(this.k9(a),this.kx(a),this.km(a),s),new A.kN(B.j,s)],r),B.z,B.a3)],r),B.m,B.k,B.f)),s)},
 k9(a4){var s,r,q,p,o,n,m,l=this,k=null,j="Poppins",i=a4.J(t.w).f.a,h=i.a,g=i.b,f=g*0.1,e=A.n(k,f,k),d=l.a,c=A.aS(k,k,B.o,k,k,new A.bw(k,A.dn(B.bw,new A.cn(d.d,k,k),k),k,k,k,k,B.K),k,k,k,k,k,k,h),b=h*0.1,a=h*0.01,a0=h*0.02,a1=g*0.01,a2=t.p,a3=h*0.015
-f=A.ab(A.a([A.n(k,f,k),A.J("About "+d.e,k,k,k,A.V(k,k,B.e,k,k,k,k,k,j,k,k,h*0.03,k,k,B.r,k,k,!0,k,k,k,k,k,k,k,k),k,k),A.n(k,g*0.05,k),A.J(B.iz[l.a.c],k,k,k,A.V(k,k,B.e,k,k,k,k,k,j,k,k,a,k,k,B.t,k,k,!0,k,k,k,k,k,k,k,k),k,k),A.n(k,g*0.02,k),A.ab(A.a([A.J(B.iy[l.a.c],k,k,k,A.V(k,k,B.e,k,k,k,k,k,j,k,k,a0,k,k,B.r,k,k,!0,k,k,k,k,k,k,k,k),k,k),A.n(k,a1,k),A.J(B.iC[l.a.c],k,k,k,A.V(k,k,B.e,k,k,k,k,k,j,k,k,a,k,k,B.t,k,k,!0,k,k,k,k,k,k,k,k),k,k)],a2),B.L,B.k,B.f),A.n(k,f,k),A.bA(A.a([A.ab(A.a([A.J("Platform",k,k,k,A.V(k,k,B.e,k,k,k,k,k,j,k,k,a3,k,k,B.r,k,k,!0,k,k,k,k,k,k,k,k),k,k),A.n(k,a1,k),A.J(l.a.f,k,k,k,A.V(k,k,B.e,k,k,k,k,k,j,k,k,a,k,k,B.t,k,k,!0,k,k,k,k,k,k,k,k),k,k)],a2),B.L,B.k,B.f),A.n(k,k,a0),A.ab(A.a([A.J("Technology",k,k,k,A.V(k,k,B.e,k,k,k,k,k,j,k,k,a3,k,k,B.r,k,k,!0,k,k,k,k,k,k,k,k),k,k),A.n(k,a1,k),A.J(l.a.r,k,k,k,A.V(k,k,B.e,k,k,k,k,k,j,k,k,a,k,k,B.t,k,k,!0,k,k,k,k,k,k,k,k),k,k)],a2),B.L,B.k,B.f),A.n(k,k,a3),A.ab(A.a([A.J("Author",k,k,k,A.V(k,k,B.e,k,k,k,k,k,j,k,k,a3,k,k,B.r,k,k,!0,k,k,k,k,k,k,k,k),k,k),A.n(k,a1,k),A.J(A.au6("DAVID KEMDIRIM"),k,k,k,A.V(k,k,B.e,k,k,k,k,k,j,k,k,a,k,k,B.t,k,k,!0,k,k,k,k,k,k,k,k),k,k)],a2),B.L,B.k,B.f),A.ab(A.a([A.J("Link",k,k,k,A.V(k,k,B.e,k,k,k,k,k,j,k,k,a3,k,k,B.r,k,k,!0,k,k,k,k,k,k,k,k),k,k),A.n(k,a1,k),A.hg(k,A.J(l.a.e,k,k,k,A.V(k,k,B.e,k,B.bf,k,k,k,j,k,k,a,k,k,B.t,k,k,!0,k,k,k,k,k,k,k,k),k,k),B.a6,!1,k,k,k,k,k,k,k,k,k,k,k,new A.amH(l),k,k,k,k,k,k)],a2),B.L,B.k,B.f)],a2),B.m,B.dP,B.f),A.n(k,g*0.08,k)],a2),B.L,B.k,B.f)
+f=A.ab(A.a([A.n(k,f,k),A.J("About "+d.e,k,k,k,A.V(k,k,B.e,k,k,k,k,k,j,k,k,h*0.03,k,k,B.r,k,k,!0,k,k,k,k,k,k,k,k),k,k),A.n(k,g*0.05,k),A.J(B.iA[l.a.c],k,k,k,A.V(k,k,B.e,k,k,k,k,k,j,k,k,a,k,k,B.t,k,k,!0,k,k,k,k,k,k,k,k),k,k),A.n(k,g*0.02,k),A.ab(A.a([A.J(B.iz[l.a.c],k,k,k,A.V(k,k,B.e,k,k,k,k,k,j,k,k,a0,k,k,B.r,k,k,!0,k,k,k,k,k,k,k,k),k,k),A.n(k,a1,k),A.J(B.iD[l.a.c],k,k,k,A.V(k,k,B.e,k,k,k,k,k,j,k,k,a,k,k,B.t,k,k,!0,k,k,k,k,k,k,k,k),k,k)],a2),B.L,B.k,B.f),A.n(k,f,k),A.bA(A.a([A.ab(A.a([A.J("Platform",k,k,k,A.V(k,k,B.e,k,k,k,k,k,j,k,k,a3,k,k,B.r,k,k,!0,k,k,k,k,k,k,k,k),k,k),A.n(k,a1,k),A.J(l.a.f,k,k,k,A.V(k,k,B.e,k,k,k,k,k,j,k,k,a,k,k,B.t,k,k,!0,k,k,k,k,k,k,k,k),k,k)],a2),B.L,B.k,B.f),A.n(k,k,a0),A.ab(A.a([A.J("Technology",k,k,k,A.V(k,k,B.e,k,k,k,k,k,j,k,k,a3,k,k,B.r,k,k,!0,k,k,k,k,k,k,k,k),k,k),A.n(k,a1,k),A.J(l.a.r,k,k,k,A.V(k,k,B.e,k,k,k,k,k,j,k,k,a,k,k,B.t,k,k,!0,k,k,k,k,k,k,k,k),k,k)],a2),B.L,B.k,B.f),A.n(k,k,a3),A.ab(A.a([A.J("Author",k,k,k,A.V(k,k,B.e,k,k,k,k,k,j,k,k,a3,k,k,B.r,k,k,!0,k,k,k,k,k,k,k,k),k,k),A.n(k,a1,k),A.J(A.au6("DAVID KEMDIRIM"),k,k,k,A.V(k,k,B.e,k,k,k,k,k,j,k,k,a,k,k,B.t,k,k,!0,k,k,k,k,k,k,k,k),k,k)],a2),B.L,B.k,B.f),A.ab(A.a([A.J("Link",k,k,k,A.V(k,k,B.e,k,k,k,k,k,j,k,k,a3,k,k,B.r,k,k,!0,k,k,k,k,k,k,k,k),k,k),A.n(k,a1,k),A.hg(k,A.J(l.a.e,k,k,k,A.V(k,k,B.e,k,B.bf,k,k,k,j,k,k,a,k,k,B.t,k,k,!0,k,k,k,k,k,k,k,k),k,k),B.a6,!1,k,k,k,k,k,k,k,k,k,k,k,new A.amH(l),k,k,k,k,k,k)],a2),B.L,B.k,B.f)],a2),B.m,B.dP,B.f),A.n(k,g*0.08,k)],a2),B.L,B.k,B.f)
 d=A.c8(0,0,3)
 d=A.asG(1.7777777777777777,!0,A.c8(0,500,0),d,g*0.5)
 s=$.avo[l.a.c]
@@ -44061,7 +44061,7 @@ n=g*0.06
 m=h*0.017
 return A.fR(A.ab(A.a([A.aS(k,A.ab(A.a([e,c,A.aS(k,new A.au(new A.a5(b,0,b,0),A.ab(A.a([f,A.asH(A.aE(new A.aw(s,new A.amI(),r),!0,r.i("bq.E")),d)],a2),B.m,B.k,B.f),k),B.o,B.A,k,k,k,k,k,k,k,k,h),A.n(k,g*0.15,k)],a2),B.m,B.k,B.f),B.o,B.A,k,k,k,k,k,k,k,k,h),A.iw(b,m,!0,n,m,o,b,a0,!1,n,a3,o,q,a,a,g*0.003,p,q,q,a,h,l.d,h*0.05,g*0.04,a,a,a1,p,new A.amJ(l),a)],a2),B.m,B.k,B.f))},
 kx(a5){var s,r,q,p,o,n,m,l,k,j=this,i=null,h="Poppins",g=a5.J(t.w).f.a,f=g.a,e=g.b,d=e*0.1,c=A.n(i,d,i),b=j.a,a=A.aS(i,i,B.o,i,i,new A.bw(i,A.dn(B.bw,new A.cn(b.d,i,i),i),i,i,i,i,B.K),i,i,i,i,i,i,f),a0=f*0.1,a1=f*0.02,a2=e*0.01,a3=t.p,a4=f*0.015
-b=A.ab(A.a([A.n(i,d,i),A.J("About "+b.e,i,i,i,A.V(i,i,B.e,i,i,i,i,i,h,i,i,f*0.04,i,i,B.r,i,i,!0,i,i,i,i,i,i,i,i),i,i),A.n(i,e*0.05,i),A.J(B.iz[j.a.c],i,i,i,A.V(i,i,B.e,i,i,i,i,i,h,i,i,a1,i,i,B.t,i,i,!0,i,i,i,i,i,i,i,i),i,i),A.n(i,e*0.02,i),A.ab(A.a([A.J(B.iy[j.a.c],i,i,i,A.V(i,i,B.e,i,i,i,i,i,h,i,i,f*0.03,i,i,B.r,i,i,!0,i,i,i,i,i,i,i,i),i,i),A.n(i,a2,i),A.J(B.iC[j.a.c],i,i,i,A.V(i,i,B.e,i,i,i,i,i,h,i,i,a1,i,i,B.t,i,i,!0,i,i,i,i,i,i,i,i),i,i)],a3),B.L,B.k,B.f),A.n(i,d,i),A.bA(A.a([A.ab(A.a([A.J("Platform",i,i,i,A.V(i,i,B.e,i,i,i,i,i,h,i,i,a1,i,i,B.r,i,i,!0,i,i,i,i,i,i,i,i),i,i),A.n(i,a2,i),A.J(j.a.f,i,i,i,A.V(i,i,B.e,i,i,i,i,i,h,i,i,a4,i,i,B.t,i,i,!0,i,i,i,i,i,i,i,i),i,i)],a3),B.L,B.k,B.f),A.n(i,i,a1),A.ab(A.a([A.J("Technology",i,i,i,A.V(i,i,B.e,i,i,i,i,i,h,i,i,a1,i,i,B.r,i,i,!0,i,i,i,i,i,i,i,i),i,i),A.n(i,a2,i),A.J(j.a.r,i,i,i,A.V(i,i,B.e,i,i,i,i,i,h,i,i,a4,i,i,B.t,i,i,!0,i,i,i,i,i,i,i,i),i,i)],a3),B.L,B.k,B.f),A.n(i,i,a4),A.ab(A.a([A.J("Author",i,i,i,A.V(i,i,B.e,i,i,i,i,i,h,i,i,a1,i,i,B.r,i,i,!0,i,i,i,i,i,i,i,i),i,i),A.n(i,a2,i),A.J(A.au6("DAVID KEMDIRIM"),i,i,i,A.V(i,i,B.e,i,i,i,i,i,h,i,i,a4,i,i,B.t,i,i,!0,i,i,i,i,i,i,i,i),i,i)],a3),B.L,B.k,B.f),A.ab(A.a([A.J("Link",i,i,i,A.V(i,i,B.e,i,i,i,i,i,h,i,i,a1,i,i,B.r,i,i,!0,i,i,i,i,i,i,i,i),i,i),A.n(i,a2,i),A.hg(i,A.J(j.a.e,i,i,i,A.V(i,i,B.e,i,B.bf,i,i,i,h,i,i,a4,i,i,B.t,i,i,!0,i,i,i,i,i,i,i,i),i,i),B.a6,!1,i,i,i,i,i,i,i,i,i,i,i,new A.amP(j),i,i,i,i,i,i)],a3),B.L,B.k,B.f)],a3),B.m,B.dP,B.f),A.n(i,e*0.08,i)],a3),B.L,B.k,B.f)
+b=A.ab(A.a([A.n(i,d,i),A.J("About "+b.e,i,i,i,A.V(i,i,B.e,i,i,i,i,i,h,i,i,f*0.04,i,i,B.r,i,i,!0,i,i,i,i,i,i,i,i),i,i),A.n(i,e*0.05,i),A.J(B.iA[j.a.c],i,i,i,A.V(i,i,B.e,i,i,i,i,i,h,i,i,a1,i,i,B.t,i,i,!0,i,i,i,i,i,i,i,i),i,i),A.n(i,e*0.02,i),A.ab(A.a([A.J(B.iz[j.a.c],i,i,i,A.V(i,i,B.e,i,i,i,i,i,h,i,i,f*0.03,i,i,B.r,i,i,!0,i,i,i,i,i,i,i,i),i,i),A.n(i,a2,i),A.J(B.iD[j.a.c],i,i,i,A.V(i,i,B.e,i,i,i,i,i,h,i,i,a1,i,i,B.t,i,i,!0,i,i,i,i,i,i,i,i),i,i)],a3),B.L,B.k,B.f),A.n(i,d,i),A.bA(A.a([A.ab(A.a([A.J("Platform",i,i,i,A.V(i,i,B.e,i,i,i,i,i,h,i,i,a1,i,i,B.r,i,i,!0,i,i,i,i,i,i,i,i),i,i),A.n(i,a2,i),A.J(j.a.f,i,i,i,A.V(i,i,B.e,i,i,i,i,i,h,i,i,a4,i,i,B.t,i,i,!0,i,i,i,i,i,i,i,i),i,i)],a3),B.L,B.k,B.f),A.n(i,i,a1),A.ab(A.a([A.J("Technology",i,i,i,A.V(i,i,B.e,i,i,i,i,i,h,i,i,a1,i,i,B.r,i,i,!0,i,i,i,i,i,i,i,i),i,i),A.n(i,a2,i),A.J(j.a.r,i,i,i,A.V(i,i,B.e,i,i,i,i,i,h,i,i,a4,i,i,B.t,i,i,!0,i,i,i,i,i,i,i,i),i,i)],a3),B.L,B.k,B.f),A.n(i,i,a4),A.ab(A.a([A.J("Author",i,i,i,A.V(i,i,B.e,i,i,i,i,i,h,i,i,a1,i,i,B.r,i,i,!0,i,i,i,i,i,i,i,i),i,i),A.n(i,a2,i),A.J(A.au6("DAVID KEMDIRIM"),i,i,i,A.V(i,i,B.e,i,i,i,i,i,h,i,i,a4,i,i,B.t,i,i,!0,i,i,i,i,i,i,i,i),i,i)],a3),B.L,B.k,B.f),A.ab(A.a([A.J("Link",i,i,i,A.V(i,i,B.e,i,i,i,i,i,h,i,i,a1,i,i,B.r,i,i,!0,i,i,i,i,i,i,i,i),i,i),A.n(i,a2,i),A.hg(i,A.J(j.a.e,i,i,i,A.V(i,i,B.e,i,B.bf,i,i,i,h,i,i,a4,i,i,B.t,i,i,!0,i,i,i,i,i,i,i,i),i,i),B.a6,!1,i,i,i,i,i,i,i,i,i,i,i,new A.amP(j),i,i,i,i,i,i)],a3),B.L,B.k,B.f)],a3),B.m,B.dP,B.f),A.n(i,e*0.08,i)],a3),B.L,B.k,B.f)
 s=A.c8(0,0,3)
 s=A.asG(1.7777777777777777,!0,A.c8(0,500,0),s,e*0.5)
 r=$.avo[j.a.c]
@@ -44077,12 +44077,12 @@ km(b4){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a=this,a0=null,a1="Poppins",a2=b4
 a8=A.J("About "+a8.e,a0,a0,a0,A.V(a0,a0,B.e,a0,a0,a0,a0,a0,a1,a0,a0,b3,a0,a0,B.r,a0,a0,!0,a0,a0,a0,a0,a0,a0,a0,a0),a0,a0)
 s=A.n(a0,a5*0.03,a0)
 r=a.a.c
-q=A.J(B.iz[r],a0,a0,a0,a4,a0,a0)
+q=A.J(B.iA[r],a0,a0,a0,a4,a0,a0)
 p=a5*0.01
 o=A.n(a0,p,a0)
 n=a3*0.03
 m=t.p
-r=A.ab(A.a([A.J(B.iy[r],a0,a0,a0,A.V(a0,a0,B.e,a0,a0,a0,a0,a0,a1,a0,a0,n,a0,a0,B.r,a0,a0,!0,a0,a0,a0,a0,a0,a0,a0,a0),a0,a0),A.n(a0,p,a0),A.J(B.iC[a.a.c],a0,a0,a0,a4,a0,a0)],m),B.L,B.k,B.f)
+r=A.ab(A.a([A.J(B.iz[r],a0,a0,a0,A.V(a0,a0,B.e,a0,a0,a0,a0,a0,a1,a0,a0,n,a0,a0,B.r,a0,a0,!0,a0,a0,a0,a0,a0,a0,a0,a0),a0,a0),A.n(a0,p,a0),A.J(B.iD[a.a.c],a0,a0,a0,a4,a0,a0)],m),B.L,B.k,B.f)
 l=A.n(a0,b1,a0)
 k=a3*0.015
 k=A.bA(A.a([A.ab(A.a([A.J("Platform",a0,a0,a0,A.V(a0,a0,B.e,a0,a0,a0,a0,a0,a1,a0,a0,n,a0,a0,B.r,a0,a0,!0,a0,a0,a0,a0,a0,a0,a0,a0),a0,a0),A.n(a0,p,a0),A.J(a.a.f,a0,a0,a0,a4,a0,a0)],m),B.L,B.k,B.f),A.n(a0,a0,k),A.ab(A.a([A.J("Technology",a0,a0,a0,A.V(a0,a0,B.e,a0,a0,a0,a0,a0,a1,a0,a0,n,a0,a0,B.r,a0,a0,!0,a0,a0,a0,a0,a0,a0,a0,a0),a0,a0),A.n(a0,p,a0),A.J(a.a.r,a0,a0,a0,a4,a0,a0)],m),B.L,B.k,B.f),A.n(a0,a0,k),A.ab(A.a([A.J("Author",a0,a0,a0,A.V(a0,a0,B.e,a0,a0,a0,a0,a0,a1,a0,a0,n,a0,a0,B.r,a0,a0,!0,a0,a0,a0,a0,a0,a0,a0,a0),a0,a0),A.n(a0,p,a0),A.J(A.au6("DAVID KEMDIRIM"),a0,a0,a0,a4,a0,a0)],m),B.L,B.k,B.f),A.ab(A.a([A.J("Link",a0,a0,a0,A.V(a0,a0,B.e,a0,a0,a0,a0,a0,a1,a0,a0,n,a0,a0,B.r,a0,a0,!0,a0,a0,a0,a0,a0,a0,a0,a0),a0,a0),A.n(a0,p,a0),A.hg(a0,A.J(a.a.e,a0,a0,a0,a4,a0,a0),B.a6,!1,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,a0,new A.amM(a),a0,a0,a0,a0,a0,a0)],m),B.L,B.k,B.f)],m),B.m,B.dP,B.f)
@@ -44106,7 +44106,7 @@ $S:0}
 A.amH.prototype={
 $0(){var s=0,r=A.R(t.H),q=this,p
 var $async$$0=A.S(function(a,b){if(a===1)return A.O(b,r)
-while(true)switch(s){case 0:p=B.iD[q.a.a.c]
+while(true)switch(s){case 0:p=B.iE[q.a.a.c]
 s=4
 return A.M(A.e1(A.c9(p,0,null)),$async$$0)
 case 4:s=b?2:3
@@ -44130,7 +44130,7 @@ $S:6}
 A.amP.prototype={
 $0(){var s=0,r=A.R(t.H),q=this,p
 var $async$$0=A.S(function(a,b){if(a===1)return A.O(b,r)
-while(true)switch(s){case 0:p=B.iD[q.a.a.c]
+while(true)switch(s){case 0:p=B.iE[q.a.a.c]
 s=4
 return A.M(A.e1(A.c9(p,0,null)),$async$$0)
 case 4:s=b?2:3
@@ -44154,7 +44154,7 @@ $S:6}
 A.amM.prototype={
 $0(){var s=0,r=A.R(t.H),q=this,p
 var $async$$0=A.S(function(a,b){if(a===1)return A.O(b,r)
-while(true)switch(s){case 0:p=B.iD[q.a.a.c]
+while(true)switch(s){case 0:p=B.iE[q.a.a.c]
 s=4
 return A.M(A.e1(A.c9(p,0,null)),$async$$0)
 case 4:s=b?2:3
@@ -64188,7 +64188,7 @@ s.Q=c.k1
 s.to=c.k4
 s.x1=c.ok
 s.x2=c.p1
-s.a7U(b==null?B.iA:b)},
+s.a7U(b==null?B.iB:b)},
 aj7(a,b){return this.kB(a,null,b)},
 Tj(){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6=this,a7={}
 a7.a=a6.dy
@@ -64715,7 +64715,7 @@ q=q.b
 if(q!=null)q.cR(0,a)},
 $S(){return this.d.i("aZ(0)")}}
 A.a8L.prototype={
-eg(a,b){var s,r=B.cI.dj(A.auH(A.qi(B.iB,b,B.U,!1),null).e),q=$.fn.bu$
+eg(a,b){var s,r=B.cI.dj(A.auH(A.qi(B.iC,b,B.U,!1),null).e),q=$.fn.bu$
 q===$&&A.b()
 s=q.u5(0,"flutter/assets",A.ho(r.buffer,0,null)).aZ(new A.a8M(b),t.V4)
 return s},
@@ -80448,7 +80448,7 @@ o.toString
 s=t.N
 s=A.z(s,s)
 for(r=b.ge_(b),r=r.gaa(r);r.u();){q=r.gL(r)
-s.n(0,q.gcn(q),A.qi(B.ix,q.gm(q),B.U,!1))}p=A.aC9(o,s)
+s.n(0,q.gcn(q),A.qi(B.iy,q.gm(q),B.U,!1))}p=A.aC9(o,s)
 return A.auH(p,c.ga4(c)?null:c).gCl()},
 j(a){return"RouterConfiguration: "+A.i(this.a)},
 a04(){var s,r,q=new A.c5("")
@@ -81084,7 +81084,7 @@ return q},
 $S:479}
 A.yR.prototype={
 a0S(a){var s=B.b.lA(a,"@")
-return A.qi(B.ix,B.b.O(a,0,s),B.U,!1)+B.b.bm(a,s)},
+return A.qi(B.iy,B.b.O(a,0,s),B.U,!1)+B.b.bm(a,s)},
 j(a){var s,r,q,p,o=this,n=new A.c5("mailto:"),m=o.a
 n.a=A.Bl("mailto:",new A.aw(m,o.ga0R(),A.ad(m).i("aw<1,@>")),"%2C")
 s=A.aF(["subject",o.d,"body",o.e,"cc",null,"bcc",null],t.N,t.ob)
@@ -81100,7 +81100,7 @@ p+="="
 n.a=p
 q=q.gm(q)
 q.toString
-n.a=p+A.qi(B.ix,q,B.U,!1)
+n.a=p+A.qi(B.iy,q,B.U,!1)
 r=!0}m=n.a
 return m.charCodeAt(0)==0?m:m}}
 A.a_x.prototype={
@@ -85517,14 +85517,15 @@ B.i=new A.j(0,0)
 B.zc=new A.eu(0.2,B.eu,B.nD,B.i,11)
 B.EG=A.a(s([B.zc]),t.sq)
 B.oK=A.a(s(["text","multiline","number","phone","datetime","emailAddress","url","visiblePassword","name","address","none"]),t.s)
+B.ix=A.a(s(["Python","Flask","Tkinter","Dart","Flutter","Javascript ","React","Php","MongoDb","Firebase","SQL","HTML","BootStrap","CSS","Adobe Tools (XD, Photoshop, Illustrator)"]),t.ee)
 B.oL=A.a(s([0,0,26624,1023,65534,2047,65534,2047]),t.t)
-B.ix=A.a(s([0,0,26498,1023,65534,34815,65534,18431]),t.t)
+B.iy=A.a(s([0,0,26498,1023,65534,34815,65534,18431]),t.t)
 B.FR=new A.mE("en","US")
 B.oM=A.a(s([B.FR]),t.ss)
 B.mM=new A.vm(0,"named")
 B.RV=new A.vm(1,"anonymous")
 B.EO=A.a(s([B.mM,B.RV]),A.ag("y<vm>"))
-B.iy=A.a(s(["","","","","Difference between Basic Package and Standard Package","For more information, visit","",""]),t.ee)
+B.iz=A.a(s(["","","","","Difference between Basic Package and Standard Package","For more information, visit","",""]),t.ee)
 B.cU=new A.j(1,0)
 B.Ip=new A.j(1,1)
 B.dW=new A.j(0,1)
@@ -85565,7 +85566,7 @@ B.Rf=new A.h0(0.9625,0.75)
 B.Rd=new A.h0(1,1)
 B.F0=A.a(s([B.Rc,B.Ri,B.Rj,B.Rh,B.Rl,B.Rm,B.Rk,B.Rg,B.Re,B.Rf,B.Rd]),A.ag("y<h0>"))
 B.F3=A.a(s(["pointerdown","pointermove","pointerleave","pointerup","pointercancel","touchstart","touchend","touchmove","touchcancel","mousedown","mousemove","mouseleave","mouseup","keyup","keydown"]),t.s)
-B.iz=A.a(s(["Bole by Joe is a food delivery company that produces the purest form of pitakwa bole and delivers it to your doorstep.\n    ","Powercore is the official software of Acecore Incorporation. It is used to efficiently regulate and analyze power consumption of a home that uses Acecore's Powercell as it's source of energy.\nI'm not obliged to say more due to the fact that I am under contract with Acecore Inc.\n  ","Peculyn is a clothing shopping web application which I collaborated in building for a client.\n    ","Siren Journals is a web application that serves as a platform for users who intend to publish school journals.\n    ","Jogenics Hotel Management System is a high-end desktop application that runs on Windows operating system. It was built to assist owners, managers and staff of hotels efficiently perform their individual jobs in ensuring the smooth running of the hotel.\n\nIt provides priviledges to the owners of hotel to accurately monitor the activities of thier employees in real-time, analyze and obtain daily, monthly and yearly income of the hotel without the need for a third party software. On the other hand, it assits the emplyees (Bartenders and Receptionists) to efficiently carry out sales and check-in/out guests respectively.\n\nIt is evident to note that, although the price of this software starts at $300, you will be required to subscribe monthly to any package in order to gain access to the analysis tab as well as ensure you're running on a quality database (T&C apply). \n  ","Smart Attendance register is a software that assists colleges and institution of learning in efficiently recording or registering daily attendance of students and staff via facial recognition.\n\nThis was basically one of the mini projects I carried out during my 500 level in college.\n  "]),t.ee)
+B.iA=A.a(s(["Bole by Joe is a food delivery company that produces the purest form of pitakwa bole and delivers it to your doorstep.\n    ","Powercore is the official software of Acecore Incorporation. It is used to efficiently regulate and analyze power consumption of a home that uses Acecore's Powercell as it's source of energy.\nI'm not obliged to say more due to the fact that I am under contract with Acecore Inc.\n  ","Peculyn is a clothing shopping web application which I collaborated in building for a client.\n    ","Siren Journals is a web application that serves as a platform for users who intend to publish school journals.\n    ","Jogenics Hotel Management System is a high-end desktop application that runs on Windows operating system. It was built to assist owners, managers and staff of hotels efficiently perform their individual jobs in ensuring the smooth running of the hotel.\n\nIt provides priviledges to the owners of hotel to accurately monitor the activities of thier employees in real-time, analyze and obtain daily, monthly and yearly income of the hotel without the need for a third party software. On the other hand, it assits the emplyees (Bartenders and Receptionists) to efficiently carry out sales and check-in/out guests respectively.\n\nIt is evident to note that, although the price of this software starts at $300, you will be required to subscribe monthly to any package in order to gain access to the analysis tab as well as ensure you're running on a quality database (T&C apply). \n  ","Smart Attendance register is a software that assists colleges and institution of learning in efficiently recording or registering daily attendance of students and staff via facial recognition.\n\nThis was basically one of the mini projects I carried out during my 500 level in college.\n  "]),t.ee)
 B.F5=A.a(s(["click","scroll"]),t.s)
 B.F6=A.a(s(["HEAD","AREA","BASE","BASEFONT","BR","COL","COLGROUP","EMBED","FRAME","FRAMESET","HR","IMAGE","IMG","INPUT","ISINDEX","LINK","META","PARAM","SOURCE","STYLE","TITLE","WBR"]),t.s)
 B.F7=A.a(s([0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0]),t.up)
@@ -85580,15 +85581,15 @@ B.oS=A.a(s([]),t.wi)
 B.Fe=A.a(s([]),A.ag("y<dW<@>>"))
 B.Fn=A.a(s([]),t.yo)
 B.F9=A.a(s([]),t.D1)
-B.iA=A.a(s([]),t.c)
+B.iB=A.a(s([]),t.c)
 B.Fk=A.a(s([]),t.Lx)
 B.Fl=A.a(s([]),t.fm)
 B.Sh=A.a(s([]),t.p)
 B.fa=A.a(s([]),t.t)
 B.oP=A.a(s([]),t.ee)
 B.Fp=A.a(s([0,0,32722,12287,65534,34815,65534,18431]),t.t)
-B.iB=A.a(s([0,0,65498,45055,65535,34815,65534,18431]),t.t)
-B.iC=A.a(s(["  ","  ","- Basic package increase the size of the database for your hotel to a fair extent, which can probably last between 1-2 years.\n\n- Standard package offers you an unlimited database and also gives you access to the Analysis Tab where you can easily verify your daily, monthly and yearly income to enable you balance your books.\n\n\nThe cost of this software is $300(plus monthly subscription). If you are interested in purchasing it, endeavour to contact me ASAP.\n  ","www.acecore.tech\n  ","  ","  "]),t.ee)
+B.iC=A.a(s([0,0,65498,45055,65535,34815,65534,18431]),t.t)
+B.iD=A.a(s(["  ","  ","- Basic package increase the size of the database for your hotel to a fair extent, which can probably last between 1-2 years.\n\n- Standard package offers you an unlimited database and also gives you access to the Analysis Tab where you can easily verify your daily, monthly and yearly income to enable you balance your books.\n\n\nThe cost of this software is $300(plus monthly subscription). If you are interested in purchasing it, endeavour to contact me ASAP.\n  ","www.acecore.tech\n  ","  ","  "]),t.ee)
 B.c7=new A.ic(0,"leading")
 B.bu=new A.ic(1,"title")
 B.bv=new A.ic(2,"subtitle")
@@ -85626,8 +85627,7 @@ B.bP=new A.jW(3,"justify")
 B.aP=new A.jW(4,"start")
 B.xI=new A.jW(5,"end")
 B.Fz=A.a(s([B.mg,B.xH,B.H,B.bP,B.aP,B.xI]),A.ag("y<jW>"))
-B.iD=A.a(s(["https:bolebyjoe.netlify.app","https://acecore.tech","https://peculyn.com","https://sirenjournals.net","https://github.com/DavidJoanes/jogenics","https://github.com/DavidJoanes/",""]),t.ee)
-B.iE=A.a(s(["Python","Flask","Tkinter","Dart","Flutter","Javascript","React","Php","MongoDb","Firebase","SQL","HTML","BootStrap","CSS","Adobe Tools (XD, Photoshop, Illustrator)"]),t.ee)
+B.iE=A.a(s(["https:bolebyjoe.netlify.app","https://acecore.tech","https://peculyn.com","https://sirenjournals.net","https://github.com/DavidJoanes/jogenics","https://github.com/DavidJoanes/",""]),t.ee)
 B.iF=A.a(s([!0,!1]),t.HZ)
 B.oV=A.a(s(["bind","if","ref","repeat","syntax"]),t.s)
 B.oX=A.a(s([0,4,12,1,5,13,3,7,15]),t.t)
