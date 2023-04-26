@@ -15457,7 +15457,7 @@ DU:function DU(){},
 TU:function TU(){},
 ayF(a,b){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e=null,d={}
 d.a=b
-if(a==null)a=B.iC
+if(a==null)a=B.iB
 s=J.aK(a)
 r=s.gq(a)-1
 q=A.b8(0,e,!1,t.LQ)
@@ -15605,7 +15605,7 @@ q.gF6()
 p.sF6(q.gF6())
 q.gy0()
 p.sy0(q.gy0())
-r.kB(0,B.iC,p)
+r.kB(0,B.iB,p)
 r.sb8(0,b.gb8(b))
 r.sbU(0,b.gbU(b))
 r.dx=b.gajH()
@@ -24818,9 +24818,9 @@ s=A.l(r)
 s=A.aHr(new A.dD(new A.aO(r,new A.YH(),s.i("aO<r.E>")),new A.YI(),s.i("dD<r.E,d>")),new A.YJ())
 return s==null?null:s.content},
 yV(a){var s
-if(A.c9(a,0,null).gQp())return A.qi(B.iD,a,B.U,!1)
+if(A.c9(a,0,null).gQp())return A.qi(B.iC,a,B.U,!1)
 s=this.gZC()
-return A.qi(B.iD,(s==null?"":s)+"assets/"+a,B.U,!1)},
+return A.qi(B.iC,(s==null?"":s)+"assets/"+a,B.U,!1)},
 eg(a,b){return this.agj(0,b)},
 agj(a,b){var s=0,r=A.R(t.V4),q,p=2,o,n=this,m,l,k,j,i,h,g,f,e,d,c
 var $async$eg=A.S(function(a0,a1){if(a0===1){o=a1
@@ -44053,7 +44053,7 @@ this.aC()},
 G(a){var s=this,r=null,q=t.p
 return A.AD(A.asz(r,!0,r,r,new A.wh(new A.amH(a),r),A.J(s.a.e,r,r,r,r,r,r),r),A.Ni(A.ab(A.a([A.d6(B.a1,A.a([new A.jO(s.k9(a),s.kx(a),s.km(a),r),new A.kN(B.j,r)],q),B.z,B.a3)],q),B.m,B.k,B.f)),r)},
 k9(a4){var s,r,q,p,o,n,m,l=this,k=null,j="Poppins",i=a4.J(t.w).f.a,h=i.a,g=i.b,f=g*0.1,e=A.n(k,f,k),d=l.a,c=A.aS(k,k,B.o,k,k,new A.bw(k,A.dn(B.ax,new A.cn(d.d,k,k),k),k,k,k,k,B.K),k,k,k,k,k,k,h),b=h*0.1,a=h*0.01,a0=h*0.02,a1=g*0.01,a2=t.p,a3=h*0.015
-f=A.ab(A.a([A.n(k,f,k),A.J("About "+d.e,k,k,k,A.V(k,k,B.e,k,k,k,k,k,j,k,k,h*0.03,k,k,B.r,k,k,!0,k,k,k,k,k,k,k,k),k,k),A.n(k,g*0.05,k),A.J(B.iB[l.a.c],k,k,k,A.V(k,k,B.e,k,k,k,k,k,j,k,k,a,k,k,B.t,k,k,!0,k,k,k,k,k,k,k,k),k,k),A.n(k,g*0.02,k),A.ab(A.a([A.J(B.iA[l.a.c],k,k,k,A.V(k,k,B.e,k,k,k,k,k,j,k,k,a0,k,k,B.r,k,k,!0,k,k,k,k,k,k,k,k),k,k),A.n(k,a1,k),A.J(B.iz[l.a.c],k,k,k,A.V(k,k,B.e,k,k,k,k,k,j,k,k,a,k,k,B.t,k,k,!0,k,k,k,k,k,k,k,k),k,k)],a2),B.L,B.k,B.f),A.n(k,f,k),A.bA(A.a([A.ab(A.a([A.J("Platform",k,k,k,A.V(k,k,B.e,k,k,k,k,k,j,k,k,a3,k,k,B.r,k,k,!0,k,k,k,k,k,k,k,k),k,k),A.n(k,a1,k),A.J(l.a.f,k,k,k,A.V(k,k,B.e,k,k,k,k,k,j,k,k,a,k,k,B.t,k,k,!0,k,k,k,k,k,k,k,k),k,k)],a2),B.L,B.k,B.f),A.n(k,k,a0),A.ab(A.a([A.J("Technology",k,k,k,A.V(k,k,B.e,k,k,k,k,k,j,k,k,a3,k,k,B.r,k,k,!0,k,k,k,k,k,k,k,k),k,k),A.n(k,a1,k),A.J(l.a.r,k,k,k,A.V(k,k,B.e,k,k,k,k,k,j,k,k,a,k,k,B.t,k,k,!0,k,k,k,k,k,k,k,k),k,k)],a2),B.L,B.k,B.f),A.n(k,k,a3),A.ab(A.a([A.J("Author",k,k,k,A.V(k,k,B.e,k,k,k,k,k,j,k,k,a3,k,k,B.r,k,k,!0,k,k,k,k,k,k,k,k),k,k),A.n(k,a1,k),A.J(A.au8("DAVID KEMDIRIM"),k,k,k,A.V(k,k,B.e,k,k,k,k,k,j,k,k,a,k,k,B.t,k,k,!0,k,k,k,k,k,k,k,k),k,k)],a2),B.L,B.k,B.f),A.ab(A.a([A.J("Link",k,k,k,A.V(k,k,B.e,k,k,k,k,k,j,k,k,a3,k,k,B.r,k,k,!0,k,k,k,k,k,k,k,k),k,k),A.n(k,a1,k),A.hg(k,A.J(l.a.e,k,k,k,A.V(k,k,B.e,k,B.bf,k,k,k,j,k,k,a,k,k,B.t,k,k,!0,k,k,k,k,k,k,k,k),k,k),B.a6,!1,k,k,k,k,k,k,k,k,k,k,k,new A.amI(l),k,k,k,k,k,k)],a2),B.L,B.k,B.f)],a2),B.m,B.dP,B.f),A.n(k,g*0.08,k)],a2),B.L,B.k,B.f)
+f=A.ab(A.a([A.n(k,f,k),A.J("About "+d.e,k,k,k,A.V(k,k,B.e,k,k,k,k,k,j,k,k,h*0.03,k,k,B.r,k,k,!0,k,k,k,k,k,k,k,k),k,k),A.n(k,g*0.05,k),A.J(B.iE[l.a.c],k,k,k,A.V(k,k,B.e,k,k,k,k,k,j,k,k,a,k,k,B.t,k,k,!0,k,k,k,k,k,k,k,k),k,k),A.n(k,g*0.02,k),A.ab(A.a([A.J(B.iA[l.a.c],k,k,k,A.V(k,k,B.e,k,k,k,k,k,j,k,k,a0,k,k,B.r,k,k,!0,k,k,k,k,k,k,k,k),k,k),A.n(k,a1,k),A.J(B.iz[l.a.c],k,k,k,A.V(k,k,B.e,k,k,k,k,k,j,k,k,a,k,k,B.t,k,k,!0,k,k,k,k,k,k,k,k),k,k)],a2),B.L,B.k,B.f),A.n(k,f,k),A.bA(A.a([A.ab(A.a([A.J("Platform",k,k,k,A.V(k,k,B.e,k,k,k,k,k,j,k,k,a3,k,k,B.r,k,k,!0,k,k,k,k,k,k,k,k),k,k),A.n(k,a1,k),A.J(l.a.f,k,k,k,A.V(k,k,B.e,k,k,k,k,k,j,k,k,a,k,k,B.t,k,k,!0,k,k,k,k,k,k,k,k),k,k)],a2),B.L,B.k,B.f),A.n(k,k,a0),A.ab(A.a([A.J("Technology",k,k,k,A.V(k,k,B.e,k,k,k,k,k,j,k,k,a3,k,k,B.r,k,k,!0,k,k,k,k,k,k,k,k),k,k),A.n(k,a1,k),A.J(l.a.r,k,k,k,A.V(k,k,B.e,k,k,k,k,k,j,k,k,a,k,k,B.t,k,k,!0,k,k,k,k,k,k,k,k),k,k)],a2),B.L,B.k,B.f),A.n(k,k,a3),A.ab(A.a([A.J("Author",k,k,k,A.V(k,k,B.e,k,k,k,k,k,j,k,k,a3,k,k,B.r,k,k,!0,k,k,k,k,k,k,k,k),k,k),A.n(k,a1,k),A.J(A.au8("DAVID KEMDIRIM"),k,k,k,A.V(k,k,B.e,k,k,k,k,k,j,k,k,a,k,k,B.t,k,k,!0,k,k,k,k,k,k,k,k),k,k)],a2),B.L,B.k,B.f),A.ab(A.a([A.J("Link",k,k,k,A.V(k,k,B.e,k,k,k,k,k,j,k,k,a3,k,k,B.r,k,k,!0,k,k,k,k,k,k,k,k),k,k),A.n(k,a1,k),A.hg(k,A.J(l.a.e,k,k,k,A.V(k,k,B.e,k,B.bf,k,k,k,j,k,k,a,k,k,B.t,k,k,!0,k,k,k,k,k,k,k,k),k,k),B.a6,!1,k,k,k,k,k,k,k,k,k,k,k,new A.amI(l),k,k,k,k,k,k)],a2),B.L,B.k,B.f)],a2),B.m,B.dP,B.f),A.n(k,g*0.08,k)],a2),B.L,B.k,B.f)
 d=A.c8(0,0,3)
 d=A.asI(1.7777777777777777,!0,A.c8(0,500,0),d,g*0.5)
 s=$.avq[l.a.c]
@@ -44065,7 +44065,7 @@ n=g*0.06
 m=h*0.017
 return A.fR(A.ab(A.a([A.aS(k,A.ab(A.a([e,c,A.aS(k,new A.au(new A.a5(b,0,b,0),A.ab(A.a([f,A.asJ(A.aE(new A.aw(s,new A.amJ(),r),!0,r.i("bq.E")),d)],a2),B.m,B.k,B.f),k),B.o,B.A,k,k,k,k,k,k,k,k,h),A.n(k,g*0.15,k)],a2),B.m,B.k,B.f),B.o,B.A,k,k,k,k,k,k,k,k,h),A.ix(b,m,!0,n,m,o,b,a0,!1,n,a3,o,q,a,a,g*0.003,p,q,q,a,h,l.d,h*0.05,g*0.04,a,a,a1,p,new A.amK(l),a)],a2),B.m,B.k,B.f))},
 kx(a5){var s,r,q,p,o,n,m,l,k,j=this,i=null,h="Poppins",g=a5.J(t.w).f.a,f=g.a,e=g.b,d=e*0.1,c=A.n(i,d,i),b=j.a,a=A.aS(i,i,B.o,i,i,new A.bw(i,A.dn(B.ax,new A.cn(b.d,i,i),i),i,i,i,i,B.K),i,i,i,i,i,i,f),a0=f*0.1,a1=f*0.02,a2=e*0.01,a3=t.p,a4=f*0.015
-b=A.ab(A.a([A.n(i,d,i),A.J("About "+b.e,i,i,i,A.V(i,i,B.e,i,i,i,i,i,h,i,i,f*0.04,i,i,B.r,i,i,!0,i,i,i,i,i,i,i,i),i,i),A.n(i,e*0.05,i),A.J(B.iB[j.a.c],i,i,i,A.V(i,i,B.e,i,i,i,i,i,h,i,i,a1,i,i,B.t,i,i,!0,i,i,i,i,i,i,i,i),i,i),A.n(i,e*0.02,i),A.ab(A.a([A.J(B.iA[j.a.c],i,i,i,A.V(i,i,B.e,i,i,i,i,i,h,i,i,f*0.03,i,i,B.r,i,i,!0,i,i,i,i,i,i,i,i),i,i),A.n(i,a2,i),A.J(B.iz[j.a.c],i,i,i,A.V(i,i,B.e,i,i,i,i,i,h,i,i,a1,i,i,B.t,i,i,!0,i,i,i,i,i,i,i,i),i,i)],a3),B.L,B.k,B.f),A.n(i,d,i),A.bA(A.a([A.ab(A.a([A.J("Platform",i,i,i,A.V(i,i,B.e,i,i,i,i,i,h,i,i,a1,i,i,B.r,i,i,!0,i,i,i,i,i,i,i,i),i,i),A.n(i,a2,i),A.J(j.a.f,i,i,i,A.V(i,i,B.e,i,i,i,i,i,h,i,i,a4,i,i,B.t,i,i,!0,i,i,i,i,i,i,i,i),i,i)],a3),B.L,B.k,B.f),A.n(i,i,a1),A.ab(A.a([A.J("Technology",i,i,i,A.V(i,i,B.e,i,i,i,i,i,h,i,i,a1,i,i,B.r,i,i,!0,i,i,i,i,i,i,i,i),i,i),A.n(i,a2,i),A.J(j.a.r,i,i,i,A.V(i,i,B.e,i,i,i,i,i,h,i,i,a4,i,i,B.t,i,i,!0,i,i,i,i,i,i,i,i),i,i)],a3),B.L,B.k,B.f),A.n(i,i,a4),A.ab(A.a([A.J("Author",i,i,i,A.V(i,i,B.e,i,i,i,i,i,h,i,i,a1,i,i,B.r,i,i,!0,i,i,i,i,i,i,i,i),i,i),A.n(i,a2,i),A.J(A.au8("DAVID KEMDIRIM"),i,i,i,A.V(i,i,B.e,i,i,i,i,i,h,i,i,a4,i,i,B.t,i,i,!0,i,i,i,i,i,i,i,i),i,i)],a3),B.L,B.k,B.f),A.ab(A.a([A.J("Link",i,i,i,A.V(i,i,B.e,i,i,i,i,i,h,i,i,a1,i,i,B.r,i,i,!0,i,i,i,i,i,i,i,i),i,i),A.n(i,a2,i),A.hg(i,A.J(j.a.e,i,i,i,A.V(i,i,B.e,i,B.bf,i,i,i,h,i,i,a4,i,i,B.t,i,i,!0,i,i,i,i,i,i,i,i),i,i),B.a6,!1,i,i,i,i,i,i,i,i,i,i,i,new A.amQ(j),i,i,i,i,i,i)],a3),B.L,B.k,B.f)],a3),B.m,B.dP,B.f),A.n(i,e*0.08,i)],a3),B.L,B.k,B.f)
+b=A.ab(A.a([A.n(i,d,i),A.J("About "+b.e,i,i,i,A.V(i,i,B.e,i,i,i,i,i,h,i,i,f*0.04,i,i,B.r,i,i,!0,i,i,i,i,i,i,i,i),i,i),A.n(i,e*0.05,i),A.J(B.iE[j.a.c],i,i,i,A.V(i,i,B.e,i,i,i,i,i,h,i,i,a1,i,i,B.t,i,i,!0,i,i,i,i,i,i,i,i),i,i),A.n(i,e*0.02,i),A.ab(A.a([A.J(B.iA[j.a.c],i,i,i,A.V(i,i,B.e,i,i,i,i,i,h,i,i,f*0.03,i,i,B.r,i,i,!0,i,i,i,i,i,i,i,i),i,i),A.n(i,a2,i),A.J(B.iz[j.a.c],i,i,i,A.V(i,i,B.e,i,i,i,i,i,h,i,i,a1,i,i,B.t,i,i,!0,i,i,i,i,i,i,i,i),i,i)],a3),B.L,B.k,B.f),A.n(i,d,i),A.bA(A.a([A.ab(A.a([A.J("Platform",i,i,i,A.V(i,i,B.e,i,i,i,i,i,h,i,i,a1,i,i,B.r,i,i,!0,i,i,i,i,i,i,i,i),i,i),A.n(i,a2,i),A.J(j.a.f,i,i,i,A.V(i,i,B.e,i,i,i,i,i,h,i,i,a4,i,i,B.t,i,i,!0,i,i,i,i,i,i,i,i),i,i)],a3),B.L,B.k,B.f),A.n(i,i,a1),A.ab(A.a([A.J("Technology",i,i,i,A.V(i,i,B.e,i,i,i,i,i,h,i,i,a1,i,i,B.r,i,i,!0,i,i,i,i,i,i,i,i),i,i),A.n(i,a2,i),A.J(j.a.r,i,i,i,A.V(i,i,B.e,i,i,i,i,i,h,i,i,a4,i,i,B.t,i,i,!0,i,i,i,i,i,i,i,i),i,i)],a3),B.L,B.k,B.f),A.n(i,i,a4),A.ab(A.a([A.J("Author",i,i,i,A.V(i,i,B.e,i,i,i,i,i,h,i,i,a1,i,i,B.r,i,i,!0,i,i,i,i,i,i,i,i),i,i),A.n(i,a2,i),A.J(A.au8("DAVID KEMDIRIM"),i,i,i,A.V(i,i,B.e,i,i,i,i,i,h,i,i,a4,i,i,B.t,i,i,!0,i,i,i,i,i,i,i,i),i,i)],a3),B.L,B.k,B.f),A.ab(A.a([A.J("Link",i,i,i,A.V(i,i,B.e,i,i,i,i,i,h,i,i,a1,i,i,B.r,i,i,!0,i,i,i,i,i,i,i,i),i,i),A.n(i,a2,i),A.hg(i,A.J(j.a.e,i,i,i,A.V(i,i,B.e,i,B.bf,i,i,i,h,i,i,a4,i,i,B.t,i,i,!0,i,i,i,i,i,i,i,i),i,i),B.a6,!1,i,i,i,i,i,i,i,i,i,i,i,new A.amQ(j),i,i,i,i,i,i)],a3),B.L,B.k,B.f)],a3),B.m,B.dP,B.f),A.n(i,e*0.08,i)],a3),B.L,B.k,B.f)
 s=A.c8(0,0,3)
 s=A.asI(1.7777777777777777,!0,A.c8(0,500,0),s,e*0.5)
 r=$.avq[j.a.c]
@@ -44081,7 +44081,7 @@ km(b4){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a=this,a0=null,a1="Poppins",a2=b4
 a8=A.J("About "+a8.e,a0,a0,a0,A.V(a0,a0,B.e,a0,a0,a0,a0,a0,a1,a0,a0,b3,a0,a0,B.r,a0,a0,!0,a0,a0,a0,a0,a0,a0,a0,a0),a0,a0)
 s=A.n(a0,a5*0.03,a0)
 r=a.a.c
-q=A.J(B.iB[r],a0,a0,a0,a4,a0,a0)
+q=A.J(B.iE[r],a0,a0,a0,a4,a0,a0)
 p=a5*0.01
 o=A.n(a0,p,a0)
 n=a3*0.03
@@ -44113,7 +44113,7 @@ $S:0}
 A.amI.prototype={
 $0(){var s=0,r=A.R(t.H),q=this,p
 var $async$$0=A.S(function(a,b){if(a===1)return A.O(b,r)
-while(true)switch(s){case 0:p=B.iE[q.a.a.c]
+while(true)switch(s){case 0:p=B.iD[q.a.a.c]
 s=4
 return A.M(A.e1(A.c9(p,0,null)),$async$$0)
 case 4:s=b?2:3
@@ -44137,7 +44137,7 @@ $S:6}
 A.amQ.prototype={
 $0(){var s=0,r=A.R(t.H),q=this,p
 var $async$$0=A.S(function(a,b){if(a===1)return A.O(b,r)
-while(true)switch(s){case 0:p=B.iE[q.a.a.c]
+while(true)switch(s){case 0:p=B.iD[q.a.a.c]
 s=4
 return A.M(A.e1(A.c9(p,0,null)),$async$$0)
 case 4:s=b?2:3
@@ -44161,7 +44161,7 @@ $S:6}
 A.amN.prototype={
 $0(){var s=0,r=A.R(t.H),q=this,p
 var $async$$0=A.S(function(a,b){if(a===1)return A.O(b,r)
-while(true)switch(s){case 0:p=B.iE[q.a.a.c]
+while(true)switch(s){case 0:p=B.iD[q.a.a.c]
 s=4
 return A.M(A.e1(A.c9(p,0,null)),$async$$0)
 case 4:s=b?2:3
@@ -64198,7 +64198,7 @@ s.Q=c.k1
 s.to=c.k4
 s.x1=c.ok
 s.x2=c.p1
-s.a7U(b==null?B.iC:b)},
+s.a7U(b==null?B.iB:b)},
 aj7(a,b){return this.kB(a,null,b)},
 Tj(){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6=this,a7={}
 a7.a=a6.dy
@@ -64725,7 +64725,7 @@ q=q.b
 if(q!=null)q.cR(0,a)},
 $S(){return this.d.i("aZ(0)")}}
 A.a8L.prototype={
-eg(a,b){var s,r=B.cI.dj(A.auJ(A.qi(B.iD,b,B.U,!1),null).e),q=$.fn.bu$
+eg(a,b){var s,r=B.cI.dj(A.auJ(A.qi(B.iC,b,B.U,!1),null).e),q=$.fn.bu$
 q===$&&A.b()
 s=q.u5(0,"flutter/assets",A.ho(r.buffer,0,null)).aZ(new A.a8M(b),t.V4)
 return s},
@@ -85577,7 +85577,6 @@ B.Rf=new A.h0(0.9625,0.75)
 B.Rd=new A.h0(1,1)
 B.F0=A.a(s([B.Rc,B.Ri,B.Rj,B.Rh,B.Rl,B.Rm,B.Rk,B.Rg,B.Re,B.Rf,B.Rd]),A.ag("y<h0>"))
 B.F3=A.a(s(["pointerdown","pointermove","pointerleave","pointerup","pointercancel","touchstart","touchend","touchmove","touchcancel","mousedown","mousemove","mouseleave","mouseup","keyup","keydown"]),t.s)
-B.iB=A.a(s(["Bole by Joe is a food delivery company that produces the purest form of pitakwa bole and delivers it to your doorstep.\n    ","Powercore is the official software of Acecore Incorporation. It is used to efficiently regulate and analyze power consumption of a home that uses Acecore's Powercell as it's source of energy.\nI'm not obliged to say more due to the fact that I am under contract with Acecore Inc.\n  ","Peculyn is a clothing shopping web application which I collaborated in building for a client.\n    ","Siren Journals is a web application that serves as a platform for users who intend to publish school journals.\n    ","Jogenics Hotel Management System is a high-end desktop application that runs on Windows operating system. It was built to assist owners, managers and staff of hotels efficiently perform their individual jobs in ensuring the smooth running of the hotel.\n\nIt provides priviledges to the owners of hotel to accurately monitor the activities of thier employees in real-time, analyze and obtain daily, monthly and yearly income of the hotel without the need for a third party software. On the other hand, it assits the emplyees (Bartenders and Receptionists) to efficiently carry out sales and check-in/out guests respectively.\n\nIt is evident to note that, although the price of this software starts at $300, you will be required to subscribe monthly to any package in order to gain access to the analysis tab as well as ensure you're running on a quality database (T&C apply). \n  ","Smart Attendance register is a software that assists colleges and institution of learning in efficiently recording or registering daily attendance of students and staff via facial recognition.\n\nThis was basically one of the mini projects I carried out during my 500 level in college.\n  "]),t.ee)
 B.F5=A.a(s(["click","scroll"]),t.s)
 B.F6=A.a(s(["HEAD","AREA","BASE","BASEFONT","BR","COL","COLGROUP","EMBED","FRAME","FRAMESET","HR","IMAGE","IMG","INPUT","ISINDEX","LINK","META","PARAM","SOURCE","STYLE","TITLE","WBR"]),t.s)
 B.F7=A.a(s([0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0]),t.up)
@@ -85592,14 +85591,14 @@ B.oS=A.a(s([]),t.wi)
 B.Fe=A.a(s([]),A.ag("y<dW<@>>"))
 B.Fn=A.a(s([]),t.yo)
 B.F9=A.a(s([]),t.D1)
-B.iC=A.a(s([]),t.c)
+B.iB=A.a(s([]),t.c)
 B.Fk=A.a(s([]),t.Lx)
 B.Fl=A.a(s([]),t.fm)
 B.Sh=A.a(s([]),t.p)
 B.fa=A.a(s([]),t.t)
 B.oP=A.a(s([]),t.ee)
 B.Fp=A.a(s([0,0,32722,12287,65534,34815,65534,18431]),t.t)
-B.iD=A.a(s([0,0,65498,45055,65535,34815,65534,18431]),t.t)
+B.iC=A.a(s([0,0,65498,45055,65535,34815,65534,18431]),t.t)
 B.c6=new A.id(0,"leading")
 B.bu=new A.id(1,"title")
 B.bv=new A.id(2,"subtitle")
@@ -85630,6 +85629,7 @@ B.Di=new A.kP(B.F_,"image/webp")
 B.Eu=A.a(s([66,77]),t.Z)
 B.Dg=new A.kP(B.Eu,"image/bmp")
 B.Fy=A.a(s([B.Dl,B.Dj,B.Dk,B.Dh,B.Di,B.Dg]),A.ag("y<kP>"))
+B.iD=A.a(s(["https:bolebyjoanes.netlify.app","https://acecore.tech","https://peculyn.com","https://sirenjournals.net","https://github.com/DavidJoanes/jogenics","https://github.com/DavidJoanes/",""]),t.ee)
 B.mg=new A.jW(0,"left")
 B.xH=new A.jW(1,"right")
 B.H=new A.jW(2,"center")
@@ -85637,7 +85637,7 @@ B.bO=new A.jW(3,"justify")
 B.aQ=new A.jW(4,"start")
 B.xI=new A.jW(5,"end")
 B.Fz=A.a(s([B.mg,B.xH,B.H,B.bO,B.aQ,B.xI]),A.ag("y<jW>"))
-B.iE=A.a(s(["https:bolebyjoe.netlify.app","https://acecore.tech","https://peculyn.com","https://sirenjournals.net","https://github.com/DavidJoanes/jogenics","https://github.com/DavidJoanes/",""]),t.ee)
+B.iE=A.a(s(["Bole by Joanes is a food delivery company that produces the purest form of pitakwa bole and delivers it to your doorstep.\n    ","Powercore is the official software of Acecore Incorporation. It is used to efficiently regulate and analyze power consumption of a home that uses Acecore's Powercell as it's source of energy.\nI'm not obliged to say more due to the fact that I am under contract with Acecore Inc.\n  ","Peculyn is a clothing shopping web application which I collaborated in building for a client.\n    ","Siren Journals is a web application that serves as a platform for users who intend to publish school journals.\n    ","Jogenics Hotel Management System is a high-end desktop application that runs on Windows operating system. It was built to assist owners, managers and staff of hotels efficiently perform their individual jobs in ensuring the smooth running of the hotel.\n\nIt provides priviledges to the owners of hotel to accurately monitor the activities of thier employees in real-time, analyze and obtain daily, monthly and yearly income of the hotel without the need for a third party software. On the other hand, it assits the emplyees (Bartenders and Receptionists) to efficiently carry out sales and check-in/out guests respectively.\n\nIt is evident to note that, although the price of this software starts at $300, you will be required to subscribe monthly to any package in order to gain access to the analysis tab as well as ensure you're running on a quality database (T&C apply). \n  ","Smart Attendance register is a software that assists colleges and institution of learning in efficiently recording or registering daily attendance of students and staff via facial recognition.\n\nThis was basically one of the mini projects I carried out during my 500 level in college.\n  "]),t.ee)
 B.iF=A.a(s([!0,!1]),t.HZ)
 B.oV=A.a(s(["bind","if","ref","repeat","syntax"]),t.s)
 B.oX=A.a(s([0,4,12,1,5,13,3,7,15]),t.t)
@@ -87569,7 +87569,7 @@ $.axB=null
 $.axC=null
 $.cF=null
 $.avq=function(){var s=t.s
-return A.a([A.a(["assets/images/projects/bolebyjoe/1.jpg","assets/images/projects/bolebyjoe/2.jpg","assets/images/projects/bolebyjoe/3.jpg","assets/images/projects/bolebyjoe/4.jpg","assets/images/projects/bolebyjoe/5.jpg","assets/images/projects/bolebyjoe/6.jpg"],s),A.a(["assets/images/projects/powercore/1.png","assets/images/projects/powercore/2.png","assets/images/projects/powercore/3.png"],s),A.a(["assets/images/projects/peculyn/1.png","assets/images/projects/peculyn/2.png","assets/images/projects/peculyn/3.png","assets/images/projects/peculyn/4.png","assets/images/projects/peculyn/5.png"],s),A.a(["assets/images/projects/sirenjournals/1.png","assets/images/projects/sirenjournals/2.png","assets/images/projects/sirenjournals/3.png","assets/images/projects/sirenjournals/4.png"],s),A.a(["assets/images/projects/jogenicsHMS/1.png","assets/images/projects/jogenicsHMS/2.png","assets/images/projects/jogenicsHMS/3.png","assets/images/projects/jogenicsHMS/4.png","assets/images/projects/jogenicsHMS/5.png","assets/images/projects/jogenicsHMS/6.png"],s),A.a(["assets/images/projects/sar/1.png","assets/images/projects/sar/2.png","assets/images/projects/sar/3.png","assets/images/projects/sar/4.png","assets/images/projects/sar/5.png"],s)],A.ag("y<D<k>>"))}()
+return A.a([A.a(["assets/images/projects/bolebyjoanes/1.jpg","assets/images/projects/bolebyjoanes/2.jpg","assets/images/projects/bolebyjoanes/3.jpg","assets/images/projects/bolebyjoanes/4.jpg","assets/images/projects/bolebyjoanes/5.jpg","assets/images/projects/bolebyjoanes/6.jpg"],s),A.a(["assets/images/projects/powercore/1.png","assets/images/projects/powercore/2.png","assets/images/projects/powercore/3.png"],s),A.a(["assets/images/projects/peculyn/1.png","assets/images/projects/peculyn/2.png","assets/images/projects/peculyn/3.png","assets/images/projects/peculyn/4.png","assets/images/projects/peculyn/5.png"],s),A.a(["assets/images/projects/sirenjournals/1.png","assets/images/projects/sirenjournals/2.png","assets/images/projects/sirenjournals/3.png","assets/images/projects/sirenjournals/4.png"],s),A.a(["assets/images/projects/jogenicsHMS/1.png","assets/images/projects/jogenicsHMS/2.png","assets/images/projects/jogenicsHMS/3.png","assets/images/projects/jogenicsHMS/4.png","assets/images/projects/jogenicsHMS/5.png","assets/images/projects/jogenicsHMS/6.png"],s),A.a(["assets/images/projects/sar/1.png","assets/images/projects/sar/2.png","assets/images/projects/sar/3.png","assets/images/projects/sar/4.png","assets/images/projects/sar/5.png"],s)],A.ag("y<D<k>>"))}()
 $.asR=["ai.png","storage.png","datacom.png"]
 $.fD=["https://github.com/DavidJoanes","https://www.linkedin.com/in/david-kemdirim-019813155","https://twitter.com/call_me_joanes?t=7X8c-T6wpg2YkpuSLs28vQ&s=09"]
 $.bR=0
